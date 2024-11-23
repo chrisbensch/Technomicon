@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "730e68d4b9540474",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c71a6f7023001a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246a055dda60dd94",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/pentest_ad_dark_2022_04.svg"
+              },
+              "icon": "lucide-image",
+              "title": "pentest_ad_dark_2022_04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac9eb0d63293616e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e30f7ede23be32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "587d339aa8aae617",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac133135668db343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52885b14289e72cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "109fd25ddf72bb40",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ff95eae4bd3b394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f9a9ca08504913",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/pentest_ad_dark_2022_04.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pentest_ad_dark_2022_04"
+            }
+          },
+          {
+            "id": "2bec77c1f15ecec2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "img/pentest_ad_dark_2022_04.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from pentest_ad_dark_2022_04"
+            }
+          },
+          {
+            "id": "413edbbcd0f0632b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b33c437f12c72f1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "img/pentest_ad_dark_2022_04.svg"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pentest_ad_dark_2022_04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "246a055dda60dd94",
+  "lastOpenFiles": [
+    "readme.md"
+  ]
+}
