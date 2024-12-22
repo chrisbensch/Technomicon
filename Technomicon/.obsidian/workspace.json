@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0629c33ea28812d",
+        "id": "cc2b103e749ac226",
         "type": "tabs",
         "children": [
           {
-            "id": "a7afe7b50d38b288",
+            "id": "84ee61287d196dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7afe7b50d38b288",
+  "active": "84ee61287d196dcc",
   "lastOpenFiles": [
+    "_Resources/_scripts/tag-adder.py",
+    "_Resources/_scripts/lastmod-adder.py",
+    "_Resources/_scripts/header-fix.py",
+    "_Resources/_scripts/date-adder.py",
+    "_Resources/_scripts",
+    "Untitled.md",
+    "Homepage.md",
+    "Vault Stats.md",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/README.md",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/JEA/VulnJEAModule/RoleCapabilities/VulnJEAModule.psrc",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/JEA/VulnJEAModule/VulnJEAModule.psd1",
@@ -174,10 +182,6 @@
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/CodeSigning/CodeSigningExamples.ps1",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/CodeSigning/CertRetrievalLab.ps1",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/Logging/ScriptblockLoggingBypass.ps1",
-    "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/Logging/Morelogging.ps1",
-    "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/Logging/FakeLogs.ps1",
-    "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/JEA/VulnJEAModule",
-    "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 4/JEA/VulnJEAEndpoint.pssc",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 3/PInvoke/PSReflect/README.md",
     "Courses, Exams, CTFs/Penetration Testing/Adversary Tactics - PowerShell/at-ps/Labs/Day 2/WMI/WMI_Association_Graph.png",
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/2. Enumeration/Services/_Other/UDP/Target _1.md",
@@ -200,10 +204,6 @@
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/5. High Value Information/Hashes/1. Cracking Hashes Offline/psexec.py.md",
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/5. High Value Information/Hashes/1. Cracking Hashes Offline/crackmapexec.md",
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/5. High Value Information/Hashes/1. Cracking Hashes Offline/Wordlists.md",
-    "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/5. High Value Information/Hashes/1. Cracking Hashes Offline/John The Ripper.md",
-    "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/5. High Value Information/Hashes/1. Cracking Hashes Offline/Hashcat.md",
-    "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/5. High Value Information/Hashes/1. Cracking Hashes Offline/Cracking WEP_WPA_WPA 2 PSK Authetication.md",
-    "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/Pentest Template/2. Enumeration/Services/15. Memcache (11221)/Target _1.md",
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/_resources/fe709dd8de5d4b618f21c59a52976ee0.png",
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/_resources/f1260c871f424085b77029787866c60e.png",
     "Penetration Testing/Methodologies/TheGetch-Method/Raw Markdown/_resources/e922a3614f8c4974bdc2e402fba6a81f.png",

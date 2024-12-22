@@ -3,7 +3,6 @@ category:
 tags:
   - homepage
   - index
-  - navigation
 created: 2024-12-21
 ---
 
@@ -16,7 +15,6 @@ This vault is your knowledge base and second brain. Here's how to navigate:
 2. **Digital Forensics**: This is to store any DFIR reference material and methodologies.
 3. **Penetration Testing**: This is to store any Penetration Testing reference material and methodologies.
 4. **System Administration**: This is to store any System Administration reference material and methodologies.
-5. **MOCs (Maps of Content)**: Browse through topic-specific indexes that organize related notes
 
 ### 📅 Recent Notes
 ```dataview

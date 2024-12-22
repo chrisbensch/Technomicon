@@ -6,7 +6,6 @@ tags:
   - navigation
 created: 2024-12-21
 ---
-
 # 🏠 Welcome to My Vault
 
 ## 🚀 Where to Start
