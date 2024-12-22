@@ -12,9 +12,11 @@ created: 2024-12-21
 ## 🚀 Where to Start
 This vault is your knowledge base and second brain. Here's how to navigate:
 
-1. **Daily Notes**: Start your day by creating a daily note to capture thoughts, tasks, and ideas
-2. **Quick Capture**: Use the Quick Capture note for fleeting thoughts you'll process later
-3. **MOCs (Maps of Content)**: Browse through topic-specific indexes that organize related notes
+1. **Courses, Exams, CTFs**: This is where I keep notes for any courses I take and any exams I'm studying for.
+2. **Digital Forensics**: This is to store any DFIR reference material and methodologies.
+3. **Penetration Testing**: This is to store any Penetration Testing reference material and methodologies.
+4. **System Administration**: This is to store any System Administration reference material and methodologies.
+5. **MOCs (Maps of Content)**: Browse through topic-specific indexes that organize related notes
 
 ### 📅 Recent Notes
 ```dataview
