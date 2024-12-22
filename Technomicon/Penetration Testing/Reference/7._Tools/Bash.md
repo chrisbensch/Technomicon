@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Network scanner
 ```bash - kali
 #!/bin/bash

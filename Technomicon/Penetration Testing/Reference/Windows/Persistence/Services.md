@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 [sc](reg.md#sc)
 ### Creating New Services
 ```powershell

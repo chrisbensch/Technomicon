@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### snmp-check
 ```bash - kali
 snmp-check $TARGET

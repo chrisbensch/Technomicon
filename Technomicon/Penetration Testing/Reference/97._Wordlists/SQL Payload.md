@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 Pay attention to `%` payloads! [[7._SQLi]]
 
 ```SQL

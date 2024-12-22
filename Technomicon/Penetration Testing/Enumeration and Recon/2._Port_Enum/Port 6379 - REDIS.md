@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://book.hacktricks.xyz/pentesting/6379-pentesting-redis
 
 #### Download Redis

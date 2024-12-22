@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - When a user is authenticated, who is also an administrator, two tokens are created:
 	- *Elevated Token*: Token with all the administrative privileges
 	- *Filter Token*: Token with administrative privileges stripped. This token is used by default to create all the process.

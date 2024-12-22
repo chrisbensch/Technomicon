@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Credential dumping Windows
 
 ## mimikatz

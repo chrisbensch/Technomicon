@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Overwrite files on target (sshd_config)
 
 Source code retrieved from target:

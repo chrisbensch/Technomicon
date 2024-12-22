@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### smbserver.py
 ```bash
 # runs a rogue smb server without authenication with a "public" share and 

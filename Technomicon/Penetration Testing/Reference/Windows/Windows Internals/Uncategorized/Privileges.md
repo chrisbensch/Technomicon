@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 [Microsoft's Documentation](https://learn.microsoft.com/en-us/windows/win32/secauthz/privilege-constants)
 
 ### SeBackup/SeRestore

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Regular
 ```SQL
 union select null --

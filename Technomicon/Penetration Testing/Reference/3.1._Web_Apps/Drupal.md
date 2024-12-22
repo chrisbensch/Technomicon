@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Drupal 7
 https://github.com/pimps/CVE-2018-7600
 

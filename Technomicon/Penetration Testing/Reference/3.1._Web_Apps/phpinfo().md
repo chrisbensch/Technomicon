@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### PHP Info File
 Let's determine the location of the web root directory,
 

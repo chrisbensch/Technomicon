@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 root:x:0:0:root:/root:/bin/bash
 emily:x:1000:1000:emily,,,:/home/emily:/bin/bash

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Enumeration
 
 Capture url request in BurpSuite:

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### send email with sendemail
 ```bash - kali
 sendemail -f 'jonas@localhost' \

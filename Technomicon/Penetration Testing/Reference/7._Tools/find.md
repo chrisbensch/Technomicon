@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### History hunting
 ```bash - target
 find / -iname .bash_history 2>/dev/null

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Instalación de droopscan
 git clone https://github.com/droope/droopescan.git
 cd droopescan

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 curl https://$TARGET:10250/pods -k
 ```

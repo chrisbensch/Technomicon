@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### SSH Enuemration
 ```bash - kali
 ssh $TARGET -p 22

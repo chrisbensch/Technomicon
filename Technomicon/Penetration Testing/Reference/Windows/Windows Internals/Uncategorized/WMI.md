@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Windows Management Instrumentation
 - Microsoft's Implimentation of:
 	- CIM: Common Information Model

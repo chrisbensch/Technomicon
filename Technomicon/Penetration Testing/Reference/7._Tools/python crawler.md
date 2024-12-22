@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```python - kali
 #!/usr/bin/python
 import sys

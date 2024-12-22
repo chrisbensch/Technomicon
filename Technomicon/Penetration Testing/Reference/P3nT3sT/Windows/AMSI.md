@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # AMSI bypass
 
 ## AMSi.fail

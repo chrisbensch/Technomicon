@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 wget https://raw.githubusercontent.com/p0dalirius/RemoteMouse-3.008-Exploit/master/RemoteMouse-3.008-Exploit.py
 ```

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://hashcat.net/wiki/doku.php?id=example_hashes
 
 Formatted for Windows host GPU usage.

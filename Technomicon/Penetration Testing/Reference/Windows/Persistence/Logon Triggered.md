@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Startup Folder
 - User Startup Folder - Runs all programs in the directory of the `<username>` logs in
 ```powershell

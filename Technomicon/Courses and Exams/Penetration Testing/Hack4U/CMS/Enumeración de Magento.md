@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Instalación 
 Ir a https://github.com/steverobbins/magescan/releases y descargar magescan.phar
 

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### nmap
 ```bash - kali
 nmap --script=mysql-databases.nse,mysql-empty-password.nse,mysql-enum.nse,mysql-info.nse,mysql-variables.nse,mysql-vuln-cve2012-2122.nse $TARGET -p 3306

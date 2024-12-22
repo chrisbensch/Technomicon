@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 Found a file named: `backup.tar.gz.enc`. Use netpgp to decrypt it.
 

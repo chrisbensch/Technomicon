@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 Pay attention to the possibility of adding a user via other vulnerability and accessing by RDP. [[Port 139 445 (Exploits)#MS17-010 method 2 RDP]]
 
 #### rdesktop Domain User:

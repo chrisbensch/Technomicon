@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ## installing evil-winrm
 ```bash
 sudo gem install evil-winrm

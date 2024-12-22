@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Windows is a multi-user operating system, where application is separated from the OS.
 - The kernel code runs in the `privileged mode` also known as the kernel mode.
 	- Kernel mode has access to all the system data and hardware

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ![[Pasted image 20220615141850.png]]
 
 ```bash - kali

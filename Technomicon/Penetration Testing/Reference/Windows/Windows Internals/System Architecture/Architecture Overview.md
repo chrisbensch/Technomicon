@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - User mode process runs in user mode (ring 1)
 - Kernel code runs in kernel mode (ring 0)
 - Hypervisor also runs in kernel mode (ring 0) but uses special CPU instructions (Vt-x on Intel and SVM on AMD). It is also frequently termed as ring -1, which is inaccurate

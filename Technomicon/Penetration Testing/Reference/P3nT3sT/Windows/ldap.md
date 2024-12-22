@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # LDAP
 ## ldapsearch
 ### Print out all data from server with ldap

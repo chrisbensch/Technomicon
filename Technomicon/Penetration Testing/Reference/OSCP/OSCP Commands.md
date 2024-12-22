@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # OSCP Commands
 
 **Preparing as part of my OSCP Certificate.**

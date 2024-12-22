@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Processes
 - A set of resources used to execute a program.
 - Are isolated from one another.

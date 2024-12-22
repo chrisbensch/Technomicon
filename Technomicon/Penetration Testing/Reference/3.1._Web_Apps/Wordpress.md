@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### WPScan
 ```bash - kali
 wpscan -e ap,at,tt,cb,dbe,u,m --detection-mode aggressive --plugins-detection aggressive -t 30 --url http://$TARGET

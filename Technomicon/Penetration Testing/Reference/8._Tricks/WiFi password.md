@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```command prompt - windows
 netsh wlan show profile
 ```

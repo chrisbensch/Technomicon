@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Reverse shell in Netcat
 
 Netcat is rarely present on production systems and even if it is there are several version of netcat, some of which don’t support the -e option.

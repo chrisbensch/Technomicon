@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Integrity levels were introduced, to differentiate between a process running under the same user but one with elevated privilege and one with standard privilege.
 - Integrity levels:
 	- System (highest)

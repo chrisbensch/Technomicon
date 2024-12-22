@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://www.exploit-db.com/exploits/49384
 
 1 by 1, put in each SQL command into the text box and hit run.

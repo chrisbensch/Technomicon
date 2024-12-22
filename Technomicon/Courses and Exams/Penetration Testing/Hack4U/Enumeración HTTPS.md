@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 openssl s_client -connect tinder.com:443
 
 sslscan tinder.com

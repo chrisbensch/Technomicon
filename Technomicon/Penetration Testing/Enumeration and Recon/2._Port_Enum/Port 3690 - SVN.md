@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 List directories and files:
 ```bash - kali
 svn ls svn://$TARGET

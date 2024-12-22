@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # P3nT3sT
 ## Collection from HackTheBox, TryHackMe and OverTheWire
 Happy Hacking 🦖 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets

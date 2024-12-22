@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - *UAC* - User Account Control
 - Was introduced in windows Vista.
 - Allows users to run application with normal user rights, and elevate to administrator rights when required.

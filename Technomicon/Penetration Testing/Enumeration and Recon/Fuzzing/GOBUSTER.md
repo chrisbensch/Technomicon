@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Búsqueda de directorios/archivos
 	gobuster dir -u http://direccion.com/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 200
 **Se puede evitar códigos de estado de la siguiente manera -b 403,404

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ![[Pasted image 20220908124907.png]]
 
 Creating a wordlist with 5 lowercase characters, 4 numeric values, and 2 special characters.

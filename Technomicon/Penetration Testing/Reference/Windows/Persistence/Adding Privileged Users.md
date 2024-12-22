@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Adding users to privileged groups
 ```powershell
 # Creating user

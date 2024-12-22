@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Enumeración básica
 wpscan --url http://X.X:X.X
 

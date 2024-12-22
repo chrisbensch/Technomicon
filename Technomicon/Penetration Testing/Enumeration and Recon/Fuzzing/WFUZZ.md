@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 ### Buscar por subdirectorios/ficheros
 wfuzz -c --hc=404 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -t 20 -u \<url\>/FUZZ

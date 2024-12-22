@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Installation
 ```bash
 pip install colorama pysnmp  

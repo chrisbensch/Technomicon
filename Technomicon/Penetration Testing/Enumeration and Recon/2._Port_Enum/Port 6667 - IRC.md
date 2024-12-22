@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 nc -nvv $TARGET 6667
 ```

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Sticky Keys
 - When we press shift 5 times, the program located at `C:\Windows\System32\sethc.exe` is executed.
 - We can chage this binary to `cmd.exe`, we can get a SYSTEM level shell even from the login screen.

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Windows can run tasks at certain time or at certain action.
 - Tasks run with the user privilege of the user who created them.
 - Tasks can be configured to be run with SYSTEM privilege

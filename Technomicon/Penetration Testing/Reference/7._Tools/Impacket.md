@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Impacket for Windows
 ```
 https://github.com/ropnop/impacket_static_binaries/releases/tag/0.9.21-dev-binaries

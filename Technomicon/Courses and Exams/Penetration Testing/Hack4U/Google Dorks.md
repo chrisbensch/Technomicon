@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - site:tinder.com
 - filetype:txt
 - intext:[texto en la pagina]

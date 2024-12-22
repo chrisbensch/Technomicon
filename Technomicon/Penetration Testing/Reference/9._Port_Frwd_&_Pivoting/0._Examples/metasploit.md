@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 PIVOT USING AUTOROUTE IN METERPRETER SESSION
 

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Resources
 
 https://pentest.tonyng.net/attacking-adobe-coldfusion/

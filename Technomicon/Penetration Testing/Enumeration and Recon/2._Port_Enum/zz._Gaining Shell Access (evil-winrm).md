@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 sudo gem install winrm winrm-fs colorize stringio
 ```   

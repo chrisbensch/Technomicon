@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - PsExec is a lightweight telent replacemnt developed by Microsoft that executes process on remove windows systems using any user's credentials
 - PsExec authentication is performed via SMB.
 - Similar to RDP but without the GUI.

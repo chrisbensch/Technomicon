@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 POST /api/setup/validate HTTP/1.1
 
 Host: data.analytical.htb

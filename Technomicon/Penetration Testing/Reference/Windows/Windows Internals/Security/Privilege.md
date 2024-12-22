@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - The right of an account to perform some system level operation.
 - These rights are stores in the access token.
 - Some privileges:

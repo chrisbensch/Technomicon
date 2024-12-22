@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```python - kali
 python3 /usr/share/doc/python3-impacket/examples/wmiexec.py $DOMAIN/$USER:$PASSWORD@$TARGET
 ```

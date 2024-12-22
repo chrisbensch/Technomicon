@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # accesschk.exe
 Tool to check access that a <user,group> has to a <file,directory,regkeys,objects,service>.
 ```powershell

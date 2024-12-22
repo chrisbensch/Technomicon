@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Null user enumeration
 ```bash - kali
 rpcclient -U "" -N $TARGET

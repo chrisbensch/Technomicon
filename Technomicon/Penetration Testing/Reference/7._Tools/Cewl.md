@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### dirList password creator
 Find words on pages at least 5 characters long.
 ```bash - kali

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 Default creds admin:admin
 
 ```

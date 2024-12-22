@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ## Basics
 * Search Commands
 	```powershell

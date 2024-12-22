@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://hashcat.net/forum/thread-7717.html
 https://www.bleepingcomputer.com/news/security/researcher-cracked-70-percent-of-wifi-networks-sampled-in-tel-aviv/
 

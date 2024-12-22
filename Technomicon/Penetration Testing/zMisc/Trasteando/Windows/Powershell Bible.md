@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 ## Descargar y ejecutar desde powershell
 

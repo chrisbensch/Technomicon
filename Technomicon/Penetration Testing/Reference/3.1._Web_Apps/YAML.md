@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Online YAML parser
 See https://github.com/artsploit/yaml-payload
 

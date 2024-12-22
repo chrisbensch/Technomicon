@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://github.com/its-arun/Werkzeug-Debug-RCE
 
 ```bash - kali

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Windows Remote Management
 - Happens over HTTPS
 - PORT 5985 and 5986(HTTPS)

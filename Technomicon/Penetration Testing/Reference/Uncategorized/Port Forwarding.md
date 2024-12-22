@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # SSH
 ### Local Port Forward
 - `SSH Client` listens for a connection, on a specific port

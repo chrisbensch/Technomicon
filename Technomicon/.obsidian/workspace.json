@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6000fa324ccd0e24",
+        "id": "0d071ab9d5f7a275",
         "type": "tabs",
         "children": [
           {
-            "id": "fc54b7e12831ea25",
+            "id": "4a8e90dc3b5e642a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,12 +160,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "fc54b7e12831ea25",
+  "active": "4a8e90dc3b5e642a",
   "lastOpenFiles": [
+    "_Resources/_templates/Default Note.md",
     "Homepage.md",
+    "Vault Stats.md",
+    "Homepage copy.md",
+    "Homepage10.md",
+    "Homepage9.md",
+    "Homepage8.md",
+    "Homepage7.md",
+    "Number of Notes.md",
+    "Homepage6.md",
+    "Homepage2.md",
+    "Homepage4.md",
+    "Homepage3.md",
+    "Homepage5.md",
+    "Penetration Testing/Enumeration and Recon/2._Port_Enum/Port 21 - FTP ~.md",
+    "_Resources/_templates/Untitled.md",
+    "Untitled 1.md",
+    "_Resources/_attachments",
+    "_Resources/_templates",
+    "_Resources",
     "Courses and Exams/Programming/Python/empty",
     "Courses and Exams/Programming/Python",
     "Courses and Exams/Programming",

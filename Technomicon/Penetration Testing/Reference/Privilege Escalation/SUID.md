@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Binaries with SUID bit set runs with it's owners's privilege.
 ```bash
 # find all files with SUID bit set

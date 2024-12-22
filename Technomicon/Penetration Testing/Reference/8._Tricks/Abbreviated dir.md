@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 Did you know that c:\program files can also be abbreviated c:\progra~1? DOS accepts either.  
   
 You could apply a similar theory to your path.  

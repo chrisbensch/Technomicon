@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://www.hacknos.com/rbash-escape-rbash-restricted-shell-escape/
 
 #### rbash escape through SSH

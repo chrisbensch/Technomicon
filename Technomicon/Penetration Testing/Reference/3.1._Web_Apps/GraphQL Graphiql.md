@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 ![[Pasted image 20221108114319.png]]
 

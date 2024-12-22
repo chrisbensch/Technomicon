@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - User can define apps that can startup when login by placing shortcuts in specific directory.
 - Apps are stored in a startup directory for all users:
 ```powershell

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - *S*ecurity *Id*entifier
 - Identifier for identities executing actions (Officially called *Principal*), can be:
 	- Users

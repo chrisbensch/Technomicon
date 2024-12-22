@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### query 
 ```powershell
 reg query <key> [options]

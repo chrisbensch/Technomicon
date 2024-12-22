@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Resource [List](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
 - List Prepared on 10/18/2024, soon will add one by one walkthroughs
 # HackTheBox

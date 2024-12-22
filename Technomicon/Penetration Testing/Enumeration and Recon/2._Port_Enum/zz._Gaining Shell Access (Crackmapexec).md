@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 sudo apt install crackmapexec
 ```

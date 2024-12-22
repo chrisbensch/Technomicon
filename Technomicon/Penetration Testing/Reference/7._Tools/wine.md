@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Wine installation
 ```bash - kali
 sudo apt install wine

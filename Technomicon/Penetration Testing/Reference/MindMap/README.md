@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # MindMap
 This is a collection of some of mine mindmaps in Obsidian. No I did not design all mindmaps myself, some are from other awesome people. I ported some of them to an Obsidian variant since I use Obsidian for my cheatsheets. The mindmaps which I have in Obsidian are listed below:
 

@@ -1,3 +1,6 @@
 [
-  "dataview"
+  "dataview",
+  "templater-obsidian",
+  "obsidian-vault-statistics-plugin",
+  "homepage"
 ]

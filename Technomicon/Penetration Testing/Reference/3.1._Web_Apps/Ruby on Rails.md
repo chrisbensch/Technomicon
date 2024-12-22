@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 Using Wappalyzer, we see Rub on Rails in Web frameworks.
 

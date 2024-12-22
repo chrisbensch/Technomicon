@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### System Information
 ```bash
 # OS Version

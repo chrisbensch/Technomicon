@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 Try logging in with the following command and common creds:
 
 ```bash - kali

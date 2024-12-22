@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Grep'n for passwords
 
 ```bash - target

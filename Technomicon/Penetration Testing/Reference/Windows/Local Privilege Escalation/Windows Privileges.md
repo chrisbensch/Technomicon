@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Rights of an account to perform specific tasks
 - Can be checked with:
 ```powershell

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Quickstart
 
 recursive, extensions, include status codes, follow redirects - options to append to commands below:

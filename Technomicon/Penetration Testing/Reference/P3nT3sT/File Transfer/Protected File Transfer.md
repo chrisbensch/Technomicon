@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Protected File Transfers
 
 As penetration testers, we often gain access to highly sensitive data such as user lists, credentials (i.e., downloading the NTDS.dit file for offline password cracking), enumeration data that can contain key information about the organization's network infrastructure, and Active Directory (AD) environment, etc. . Therefore, it is essential to encrypt such information or use encrypted data connections such as SSH, SFTP, and HTTPS. However, it is possible that these options are not available to us and that a different approach is required.

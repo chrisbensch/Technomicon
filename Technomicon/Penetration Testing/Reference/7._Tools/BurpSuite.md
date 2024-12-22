@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Intercept traffic on different port
 
 Proxy > Options > Proxy listeners > Add

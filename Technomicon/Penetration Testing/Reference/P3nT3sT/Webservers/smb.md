@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # SMB
 ## Impacket SMBServer
 Impacket is my preferred method of setting up a file transfer over SMB because it does not run in the background or involve modifying configuration files. We can use smbserver.py specifically. If other people attempt to connect to the service, it has the bonus that it will display a NetNTLMv2 hash that, if successfully cracked, will reveal the password.

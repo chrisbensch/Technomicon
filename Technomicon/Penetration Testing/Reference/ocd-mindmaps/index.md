@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Welcome to Orange Cyberdefense mindmaps
 
 ## AD - mindmap 2023 - 02

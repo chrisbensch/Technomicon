@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #Ligolo-NG  </br >
 https://github.com/nicocha30/ligolo-ng
 https://www.youtube.com/watch?v=DM1B8S80EvQ&t=1s  </br >

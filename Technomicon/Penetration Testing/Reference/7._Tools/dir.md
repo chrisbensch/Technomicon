@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 Search recursively for a file
 ```command prompt - windows
 where /r C:\Users flag*

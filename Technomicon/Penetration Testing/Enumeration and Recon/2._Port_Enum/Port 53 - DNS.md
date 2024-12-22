@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### enumeration
 ```bash - kali
 nmap -A $TARGET

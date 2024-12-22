@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Active Directory
 Here there is different commands to interact with a domain
 ## Add User

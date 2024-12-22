@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### nmap
 ```bash - kali
 nmap -p 88 --script=krb5-enum-users --script-args="krb5-enum-users.realm='$DOMAIN_NAME'" $TARGET

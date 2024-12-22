@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 32 or 64?
 ```bash - target
 uname -a

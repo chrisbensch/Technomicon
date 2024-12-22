@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://blog.zabbix.com/zabbix-remote-commands/7500/
 
 [[TechLexicon/Penetration Testing/Reference/7._Tools/Python#Server]]

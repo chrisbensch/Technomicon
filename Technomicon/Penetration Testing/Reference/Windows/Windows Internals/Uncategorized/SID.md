@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### SID
 - Get SID of users on the system using WMI
 ```powershell

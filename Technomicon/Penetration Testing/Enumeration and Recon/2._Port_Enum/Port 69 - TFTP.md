@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 ```bash - kali
 sudo nmap -sU -p69 --script tftp-enum $TARGET

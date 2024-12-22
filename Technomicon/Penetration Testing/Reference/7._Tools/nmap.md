@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ####  Manual
 ```bash - kali
 sudo nmap -p- -Pn -vvv $TARGET -Pn

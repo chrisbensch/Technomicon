@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Evading Detection
 ## Changing User-Agent
 In case diligent administrators or defenders have blacklisted any of these User Agents, Invoke-WebRequest contains a UserAgent parameter, which allows for changing the default user agent to one emulating Internet Explorer, Firefox, Chrome, Opera, or Safari. For example, if Chrome is used internally, then setting this User Agent may make the request seem legitimate.

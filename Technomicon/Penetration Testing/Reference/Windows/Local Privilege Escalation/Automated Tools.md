@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # PowerUp
 https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
 ```powershell

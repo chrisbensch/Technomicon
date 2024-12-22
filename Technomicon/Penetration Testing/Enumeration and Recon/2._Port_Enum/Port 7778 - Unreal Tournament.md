@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - klai
 wget https://www.exploit-db.com/exploits/16145
 ```

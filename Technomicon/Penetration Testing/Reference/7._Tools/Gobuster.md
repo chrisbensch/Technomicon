@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### VHOST discovery
 ```bash - kali
 gobuster vhost -u http://example.domain -w /usr/share/seclists/Discovery/DNS/subdomainstop1million-5000.txt | grep -v 302

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### harvest
 - Gathers TGT flowing from a KDC every x interval.
 ```powershell

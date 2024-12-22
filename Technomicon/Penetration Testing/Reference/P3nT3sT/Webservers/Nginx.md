@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Nginx configuration
 
 ## Installing Nginx 

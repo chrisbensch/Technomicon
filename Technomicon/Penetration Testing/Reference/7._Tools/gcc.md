@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Compiling
 
 gcc not found on target?  Try:

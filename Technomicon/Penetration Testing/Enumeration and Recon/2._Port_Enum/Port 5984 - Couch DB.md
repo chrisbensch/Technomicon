@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
    
 ```bash - kali
 curl http://$TARGET:5984/

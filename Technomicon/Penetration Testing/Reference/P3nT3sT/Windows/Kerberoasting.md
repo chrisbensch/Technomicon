@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Kerberoasting
 ## GetNPUsers (Impacket)
 ````bash

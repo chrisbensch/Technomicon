@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # Group Policy Preferences
 Group Policy Preferences (GPP) was introduced in Windows Server 2008, and among many other
 features, allowed administrators to modify users and groups across their network.

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
 
 #### Crawl and discover SQL injections

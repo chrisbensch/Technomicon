@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 Base64 encode each line of file:
 ```bash - kali

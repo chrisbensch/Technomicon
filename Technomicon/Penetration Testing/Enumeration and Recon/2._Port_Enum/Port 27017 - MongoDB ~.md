@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/)
 
 ```bash - kali

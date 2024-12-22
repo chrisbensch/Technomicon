@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 wget https://raw.githubusercontent.com/hakivvi/CVE-2022-29464/main/exploit.py
 ```

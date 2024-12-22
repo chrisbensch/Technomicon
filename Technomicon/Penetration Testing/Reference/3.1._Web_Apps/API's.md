@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### WAF Web Application Firewall
 
 ![[Pasted image 20220307105734.png]]

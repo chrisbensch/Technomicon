@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Tratar de listar el contenido con un null session
 	smbclient -L X.X.X.X -N
 	smbmap -H X.X.X.X 

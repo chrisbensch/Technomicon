@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Unshadow
 ```bash - kali
 sudo unshadow passwd-file.txt shadow-file.txt > unshadowed.txt

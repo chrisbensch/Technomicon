@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```SQL
 OR 1=1
 OR 1=0

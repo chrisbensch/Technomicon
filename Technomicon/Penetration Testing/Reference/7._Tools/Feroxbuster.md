@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Feroxbuster
 
 Run with `-n` for non recursive, get a layout idea.

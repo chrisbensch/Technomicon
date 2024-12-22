@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - System wide transcription
 - Script block logging
 - AMSI

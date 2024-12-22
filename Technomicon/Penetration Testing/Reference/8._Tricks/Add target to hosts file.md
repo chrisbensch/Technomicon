@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ```bash - kali
 echo "$TARGET example.domain" | sudo tee -a /etc/hosts
 ```

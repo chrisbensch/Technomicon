@@ -1,3 +1,10 @@
+---
+category: Uncategorized
+tags:
+  - pentest
+  - enumeration
+  - ftp
+---
 #### FTP Enumeration
 ==CHECK TO SEE IF YOU CAN UPLOAD FILES!==
 

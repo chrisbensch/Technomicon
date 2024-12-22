@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 
 <!-- @admin! MySQL is been installed.. please fix the login page! ~amrois -->
 

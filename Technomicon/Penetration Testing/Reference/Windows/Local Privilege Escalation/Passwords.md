@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Registry
 Can can contain password for insecure services.
 [reg](reg.md)

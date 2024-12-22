@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 - Used to harvest credentials from a windows machine.
 - Has two additional components:
 	- `Mimidrv`: driver that interacts with windows kernel

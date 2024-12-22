@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 # TCP
 ```bash
 # encoding the contents of the file and sharing over tcp connection

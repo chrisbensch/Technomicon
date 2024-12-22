@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 https://www.mankier.com/1/nikto
 
 #### Commands

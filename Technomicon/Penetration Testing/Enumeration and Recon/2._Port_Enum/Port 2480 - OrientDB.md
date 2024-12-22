@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 exploit 44068
 
 Save the python exploit code out of page as 44068.py

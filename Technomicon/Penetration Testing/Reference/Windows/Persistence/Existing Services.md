@@ -1,3 +1,7 @@
+---
+category: Uncategorized
+tags: []
+---
 ### Web Shells
 - IIS runs with `iss apppool\defaultapppool`, this is an unprivileged user, but it has `SeImpersonatePrivilege`.
 - ASP.NET shell can be placed in the web root directory, `C:\inetpub\wwwroot`.
