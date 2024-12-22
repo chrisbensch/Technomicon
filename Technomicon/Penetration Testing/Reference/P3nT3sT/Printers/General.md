@@ -48,3 +48,6 @@ created: 2024-12-21
 -   [Cross-site printing](http://hacking-printers.net/wiki/index.php/Cross-site_printing "Cross-site printing")
 
 http://hacking-printers.net/wiki/index.php/Main_Page
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

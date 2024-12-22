@@ -52,3 +52,6 @@ RETR 2
 ```bash - kali
 ssh alice@$TARGET
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

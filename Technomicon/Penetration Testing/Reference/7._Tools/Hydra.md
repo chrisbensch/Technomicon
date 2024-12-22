@@ -103,3 +103,6 @@ hydra -P /usr/share/wordlists/rockyou.txt $TARGET vnc -vvv -f -s 5900 -t 3
 ```bash
 hydra -vV -L users -P /usr/share/wordlists/rockyou.txt $TARGET http-post-form '/wordpress/wp-login.php:log=^USER^&pwd&wp-submit=Log+In:F=is incorrect' -f -t 3
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

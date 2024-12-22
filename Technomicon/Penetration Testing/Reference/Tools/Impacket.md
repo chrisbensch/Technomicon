@@ -18,3 +18,6 @@ smbserver.py -smb2support -username <username> -password <password> <share_name>
 # dump hashes from 
 secretsdump.py -sam <sam_dump> -system <system_dump> LOCAL
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

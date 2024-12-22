@@ -17,3 +17,6 @@ schtasks /query /fo LIST /v
 Get-ScheduledTask | where-object {$_.TaskPath -notlike "\Microsoft"} | Format-Table TaskName,TaskPath,State
 ```
 - If a scipt is running as SYSTEM or admin, and we have write permission on the file, we can change the content of the files with our revere shell.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

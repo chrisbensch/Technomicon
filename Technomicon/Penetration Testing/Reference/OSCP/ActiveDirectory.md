@@ -240,3 +240,5 @@ impacket-secrectsdump USERNAME@IP -hashes LM:NTLM
 
 ## Active Directory Case Studies
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

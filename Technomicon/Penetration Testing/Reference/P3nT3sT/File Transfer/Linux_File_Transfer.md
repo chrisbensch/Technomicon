@@ -136,3 +136,6 @@ func main() {
      io.Copy(lfile, response.Body)
 }
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

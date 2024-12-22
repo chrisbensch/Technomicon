@@ -16,3 +16,6 @@ The tool allows for communicating in three languages i.e. Adobe PostScript and H
 ```bash
 ./pret.py 10.10.10.201 ps/pjl/pcl
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

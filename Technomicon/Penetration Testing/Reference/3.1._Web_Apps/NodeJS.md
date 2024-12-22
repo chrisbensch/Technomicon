@@ -178,6 +178,4 @@ If found, evaluate for vulnerable dependencies.  Maybe this is something we can 
 ![[Pasted image 20220905142745.png]]
 
 
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

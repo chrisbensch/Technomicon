@@ -124,3 +124,5 @@ hashcat.exe -m 13000 hashes.txt rockyou.txt -O
 hashcat.exe -m 19700 hashes.txt rockyou.txt -O
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

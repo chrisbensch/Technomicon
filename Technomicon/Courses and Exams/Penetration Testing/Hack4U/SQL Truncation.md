@@ -21,10 +21,4 @@ Contraseña: 1234
 > De este modo, la base de datos recortará los espacios y la a del nombre de usuario y le asignará la contraseña 1234, sobrescribiendo así al anterior usuario
 
 
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

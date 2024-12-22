@@ -166,3 +166,6 @@ Vulnerabilities found will popup under the “Alerts” tab:
 ![](https://miro.medium.com/max/785/1*f52ixU7dbzS3X-z0I8Wh-Q.png)
 
 OWASP ZAP is a great web app testing suite and should definitely be used more commonly than Burp Suite Community. There just seems to be a lack of documentation and tutorials about ZAP compared to Burp. I hope to have helped bridge that gap with this post and have taught you how to transfer your web pentesting skills from Burp to ZAP.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

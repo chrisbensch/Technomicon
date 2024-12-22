@@ -34,3 +34,6 @@ Revisit "File manager" on the right side, and click on your folder.  You will re
 `http://10.11.1.73:8080/MYuploads/fileManager/collectives/DG0/webshell/webshell.php`
 
 ![[Pasted image 20220615152937.png]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

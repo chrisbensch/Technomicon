@@ -52,3 +52,6 @@ whereis phpmyadmin
 ```bash - target
 find / -iname local.txt 2> /dev/null
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

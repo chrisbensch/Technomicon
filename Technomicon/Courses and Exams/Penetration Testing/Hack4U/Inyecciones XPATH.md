@@ -11,3 +11,6 @@ created: 2024-12-21
 > Esto sucede así ya que la estructura de la consulta es muy parecida a la de las consultas a bases dd datos.
 
 https://book.hacktricks.xyz/pentesting-web/xpath-injection
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

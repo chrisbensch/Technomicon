@@ -562,3 +562,6 @@ void duphandle() {
         - `HBRUSH` for brush
         - `HBITMAP` for a bitmap
 - These are private to a process but like User objects, they don't have reference counting
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -13,3 +13,5 @@ created: 2024-12-21
 
 Ver [HackTricks](https://book.hacktricks.xyz/pentesting-web/nosql-injection)
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

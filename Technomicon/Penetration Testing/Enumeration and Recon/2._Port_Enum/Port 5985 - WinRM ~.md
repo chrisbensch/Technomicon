@@ -38,3 +38,5 @@ upload /home/kali/Desktop/reverse.exe C:\Troubleshooting\reverse.exe
 SEE ALSO:
 [[3._EvilWinRM]]
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

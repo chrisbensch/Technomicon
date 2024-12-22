@@ -70,3 +70,6 @@ https://blog.stealthbits.com/extracting-service-account-passwords-with-kerberoas
 https://github.com/GhostPack/Rubeus
 https://github.com/fireeye/SSSDKCMExtractor
 https://gitlab.com/Zer1t0/cerbero
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

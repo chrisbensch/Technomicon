@@ -18,3 +18,5 @@ guestmount --add ./mnt/WindowsImageBackup/L4mpje-PC/Backup\ 2019-02-22\ 124351/9
 
 Try dumping hashes with [[2._Dumping Hashes with Secretsdump.py#Locally with secretsdump py]]
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

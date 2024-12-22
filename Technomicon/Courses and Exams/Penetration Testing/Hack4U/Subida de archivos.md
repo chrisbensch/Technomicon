@@ -64,21 +64,4 @@ Se puede acortar aún más así:
 > cmd.jpg.php y este será aceptado por el servidor
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

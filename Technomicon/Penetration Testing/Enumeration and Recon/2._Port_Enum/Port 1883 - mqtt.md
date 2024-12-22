@@ -11,3 +11,6 @@ sudo apt install mosquitto_sub
 ```bash - kali
 mosquitto_sub -h  $TARGET -u $USER -P $PASSWORD -t $TOPIC
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

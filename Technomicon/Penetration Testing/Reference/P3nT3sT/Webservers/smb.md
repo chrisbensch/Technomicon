@@ -65,3 +65,6 @@ In some cases, computers will not allow anonymous SMB connections. In this case,
 Ryohei@htb[/htb]$ /usr/share/doc/python3-impacket/examples/smbserver.py -user USERNAME -password PASSWORD FileTransfer $(pwd)
 ````
 As we have seen, there are a few quick and easy ways to transfer files over HTTP and SMB. Aside from their real-world applications, these examples can be used on the provided Pwnbox during any module that requires a file transfer (i.e., transferring a zip file containing BloodHound data collected during the Active Directory BloodHound module.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -27,3 +27,5 @@ reg save <key> <filename> [options]
 ```
 - `/y` : overwrite the files
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

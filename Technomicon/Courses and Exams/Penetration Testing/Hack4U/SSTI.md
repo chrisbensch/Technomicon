@@ -12,8 +12,4 @@ created: 2024-12-21
 Es bastante crítico ya que se puede utilizar para leer archivos de la máquina o como RCE.
 
 
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

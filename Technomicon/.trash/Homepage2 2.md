@@ -80,3 +80,6 @@ SORT length(file.inlinks) DESC
 LIMIT 5
 ```
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

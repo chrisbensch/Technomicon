@@ -33,4 +33,7 @@ nmap -p22 10.10.10.2 --script="vuln or safe"
 
 
 ### Descubirmiento de hosts en una red (Más en [[Descubrimiento de HOSTS en una red]])
-nmap -sn 192.168.1.0/24 
+nmap -sn 192.168.1.0/24
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

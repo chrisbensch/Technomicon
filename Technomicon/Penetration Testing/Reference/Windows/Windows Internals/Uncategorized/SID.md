@@ -22,3 +22,6 @@ Get-WmiObject -Class Win32_UserAccount | Select-Object -Property Name,SID | Form
 	- Administrator: 500
 	- Normal Users: >1000
 - When a users logs in, LSASS process gets it RID from the SAM Registry hive and creates an access token associated with that RID.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

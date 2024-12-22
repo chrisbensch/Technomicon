@@ -19,3 +19,6 @@ C:/xampp/htdocs
 we found the document root directory of the website (from the `phpinfo()` output) to be `C:/xampp/htdocs/`. Leveraging another vulnerability, we should be able to write a PHP web shell to that directory.
 
 https://book.hacktricks.xyz/pentesting-web/file-inclusion#via-phpinfo-file_uploads-on
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

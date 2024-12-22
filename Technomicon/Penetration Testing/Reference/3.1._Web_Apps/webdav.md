@@ -40,5 +40,4 @@ http://$TARGET/cmdasp.aspx
 ![[TechLexicon/Penetration Testing/Reference/7._Tools/Curl#Webdav trigger webshell]]
 
 
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

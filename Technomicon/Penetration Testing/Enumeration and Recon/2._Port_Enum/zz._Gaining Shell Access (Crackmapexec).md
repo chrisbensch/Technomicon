@@ -51,3 +51,6 @@ crackmapexec smb x.x.x.0/24 -u $USER -d $DOMAIN -p $PASSWORD --sam
 ```bash - kali
 crackmapexec smb x.x.x.0/24 -u $USER -d $DOMAIN -p $PASSWORD --lsa
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

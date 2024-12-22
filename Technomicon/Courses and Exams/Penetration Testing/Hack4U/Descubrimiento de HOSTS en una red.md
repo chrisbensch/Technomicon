@@ -16,3 +16,6 @@ arp-scan -I eth0 --localnet
 
 ## Con MASSCAN
 masscan -p21,22,80,139,443,445,3306,8080 -Pn 192.168.1.0/24 --rate=5000
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

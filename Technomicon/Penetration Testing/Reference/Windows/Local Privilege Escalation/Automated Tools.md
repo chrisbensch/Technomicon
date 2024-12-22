@@ -20,3 +20,6 @@ https://github.com/enjoiz/Privesc
 ```powershell
 Invoke-PrivEsc
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

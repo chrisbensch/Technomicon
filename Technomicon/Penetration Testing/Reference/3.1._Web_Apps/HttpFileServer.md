@@ -23,8 +23,4 @@ python cve-2014-6287.py $TARGET 9505
 ```
 
 
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

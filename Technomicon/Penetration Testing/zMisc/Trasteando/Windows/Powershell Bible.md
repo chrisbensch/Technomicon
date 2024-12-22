@@ -19,9 +19,4 @@ cmd /C START /MIN powershell -WindowStyle hidden -NoLogo -NonInteractive -ep byp
 ```
 
 
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

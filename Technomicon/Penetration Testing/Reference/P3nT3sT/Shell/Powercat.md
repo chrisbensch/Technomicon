@@ -120,3 +120,6 @@ Start A Persistent Server That Serves a File:
 ```
 
 #shell #reverseshell #filetransfer #relays #portscan #fileserver
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

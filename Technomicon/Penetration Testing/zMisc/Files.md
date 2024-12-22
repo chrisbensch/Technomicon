@@ -27,3 +27,6 @@ Para ver como explotar in LFI, mirar [[LFI]]
 ##### SSH
 /var/log/auth.log
 /var/log/btmp
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

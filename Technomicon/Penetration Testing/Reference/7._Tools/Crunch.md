@@ -16,3 +16,5 @@ Appending 4 numbers and 2 special characters to known beginning of password.
 crunch 11 11 -t bella%%%%^^ -o crunch.txt
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

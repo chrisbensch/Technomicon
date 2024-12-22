@@ -10,3 +10,6 @@ created: 2024-12-21
 - inurl: config.php.txt
 
 Página para usar dominios publlicos con google dorks que vienen: [https://pentest-tools.com](https://pentest-tools.com/information-gathering/google-hacking)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

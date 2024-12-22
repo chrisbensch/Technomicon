@@ -71,3 +71,6 @@ db.current.find({"username":"admin"})
 https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration
 
 https://github.com/C4l1b4n/NoSQL-Attack-Suite
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

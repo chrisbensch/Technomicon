@@ -408,3 +408,6 @@ https://github.com/an4kein/awesome-red-teaming#-social-engineering
 
 # Special Thanks to the Creator of tools and Community
 ([S1REN](https://sirensecurity.io/blog/about-me/))
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

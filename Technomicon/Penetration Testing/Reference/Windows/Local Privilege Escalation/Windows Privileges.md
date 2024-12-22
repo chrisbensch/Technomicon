@@ -53,3 +53,6 @@ nv -nvlp 9999
 # After locking the computer and clicking on ease of access button, we get a reverse shell.
 ```
 ### SeImpersonate
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

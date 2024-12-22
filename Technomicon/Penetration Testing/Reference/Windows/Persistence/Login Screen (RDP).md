@@ -21,3 +21,6 @@ copy C:\Windows\System32\cmd.exe C:\Windows\System32\sethc.exe
 ### utilman
 - Simiar to `C:\Windows\System32\sethc.exe` , when we click on `easeofaccess` button on login screen, `C:\Windows\System32\utilman.exe` is executed.
 - We can change this binary after taking ownership of this binary.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

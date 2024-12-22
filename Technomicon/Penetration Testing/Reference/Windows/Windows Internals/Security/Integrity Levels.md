@@ -19,3 +19,6 @@ created: 2024-12-21
 - Process with low integrity level cannot access objects with high integrity level.
 - Objects with no integrity value is perceived as objects with medium integrity. Hence, most of the files and folders are medium integrity object and requires an process with medium or above integrity level to interact with the object.
 - Integrity levels take precedence over [Security Descriptor](Security%20Descriptor.md). Even if a process has full control over the access, it cannot access the object if the integrity level of process is lower than that of the object.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

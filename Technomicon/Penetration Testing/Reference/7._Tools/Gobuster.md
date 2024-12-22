@@ -13,3 +13,6 @@ gobuster vhost -u http://example.domain -w /usr/share/seclists/Discovery/DNS/sub
 ```bash - kali
 gobuster -w directory-list-2.3-medium.txt -t 50 -k -u https://administrator1.friendzone.red/ -x php
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

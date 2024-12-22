@@ -19,15 +19,4 @@ Next, we just visit:
 `https://$TARGET:9443/authenticationendpoint/reverse.jsp`
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

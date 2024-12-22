@@ -35,3 +35,6 @@ scp -i id_rsa ../scp_wrapper.sh $USER@$TARGET:/home/$USER
 ```bash - kali
 ssh -i id_rsa $USER@$TARGET
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

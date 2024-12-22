@@ -14,3 +14,6 @@ created: 2024-12-21
 
 En el ejemplo de la imagen, el valor de PlainText es false, lo que significa que la contraseña esta en base64 y no en texto plano.
 ![[Pasted image 20230731162735.png]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

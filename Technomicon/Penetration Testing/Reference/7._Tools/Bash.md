@@ -94,3 +94,5 @@ stty rows $x columns $y
 export TERM=xterm-256color
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

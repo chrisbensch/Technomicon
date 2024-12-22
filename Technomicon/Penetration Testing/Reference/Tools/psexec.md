@@ -12,3 +12,6 @@ created: 2024-12-21
 psexec.py Administrator@<ip> cmd.exe
 ```
 https://www.rapid7.com/blog/post/2013/03/09/psexec-demystified/
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

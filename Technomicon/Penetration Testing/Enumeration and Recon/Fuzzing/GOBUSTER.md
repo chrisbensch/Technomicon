@@ -22,3 +22,4 @@ Se puede buscar solo por codigos 200 de la siguiente manera -s 200 -b ''**
 **Si el comando te muestra todos los resultados podemos añadir al final "| grep -v 403" suponiendo que nos esté mostrando subdominios que devuelven un código 403**
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

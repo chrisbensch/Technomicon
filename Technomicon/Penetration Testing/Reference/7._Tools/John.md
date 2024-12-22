@@ -65,3 +65,6 @@ $[%^&*()_+\-={}|\[\]\\;':",./\<\>?`~]$[%^&*()_+\-={}|\[\]\\;':",./\<\>?`~]
 ```bash - kali
 john --wordlist=wordlist.txt --rules=append2specials hashes.txt
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

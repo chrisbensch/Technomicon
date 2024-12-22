@@ -37,20 +37,4 @@ curl http://$TARGET:13337/logs?file=/etc/passwd -H "X-Forwarded-For: localhost"
 [[GraphQL Graphiql]]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

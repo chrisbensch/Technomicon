@@ -122,3 +122,6 @@ Xnest :1
 You’ll need to authorise the target to connect to you (command also run on your host):
 
 xhost +targetip
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

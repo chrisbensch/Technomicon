@@ -140,4 +140,4 @@ Enter your Kali IP in the Server Address field.
 Click update, get clear text creds in listener.
 
 
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -17,3 +17,6 @@ icacls.exe shell.aspx /grant Everyone:F
 ```
 - The web shell can be located at http://server.com/shell.aspx.
 ### MSSQL
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

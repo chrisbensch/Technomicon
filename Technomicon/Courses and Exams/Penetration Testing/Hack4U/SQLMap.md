@@ -18,3 +18,4 @@ created: 2024-12-21
 + --proxy: En caso de querer pasar las peticiones a través de un proxy. Podemos interceptar las peticiones con [[TechLexicon/Courses and Exams/Penetration Testing/Hack4U/BurpSuite]] de la siguiente manera --proxy http://127.0.0.18080
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -46,3 +46,6 @@ Double check against dirb!
 ```bash - kali
 proxychains dirb http://$TARGET /usr/share/wordlists/dirb/common.txt -w -X .asp,.aspx,.cgi,.htm,.html,.jsp,.php
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

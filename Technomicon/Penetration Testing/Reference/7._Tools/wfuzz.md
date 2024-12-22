@@ -13,3 +13,6 @@ wfuzz -c -w /usr/share/wordlists/wfuzz/Injections/SQL.txt -d “username=admin&p
 ```
 
 [[SQLText]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

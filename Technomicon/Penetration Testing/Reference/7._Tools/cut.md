@@ -9,10 +9,4 @@ cat /etc/passwd | cut -d : -f 1
 ```
 
 
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

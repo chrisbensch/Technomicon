@@ -101,3 +101,5 @@ grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"
 grep -o '[^/]*\.js' access_log.txt | sort -u 
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

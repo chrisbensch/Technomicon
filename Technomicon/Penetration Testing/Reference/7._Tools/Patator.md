@@ -29,5 +29,4 @@ Place in your FILE placeholders where necessary.  Below, we see in the password 
 Right click > copy to file > "copy to file" as text file.
 
 
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -77,3 +77,6 @@ password=GUEST
 
 metalytics
 An4lytics_ds20223#
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

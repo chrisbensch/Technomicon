@@ -82,3 +82,6 @@ lsadump::dcsync /domain:mydomain.local /user:dr.dragon
 # Dump all credentials
 lsadump::dcsync /domain:mydomain.local /all
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -21,15 +21,4 @@ Si se usa la función strcompare()
 Si se usa == para comparar en PHP ambas contraseñas convirtiendolas antes a MD5, podemos poner una contraseña cuyo valor en MD5 empiece igual
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

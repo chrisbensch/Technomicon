@@ -27,3 +27,6 @@ getOTP(username:"peter")
 ```
 
 ![[Pasted image 20221108114441.png]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

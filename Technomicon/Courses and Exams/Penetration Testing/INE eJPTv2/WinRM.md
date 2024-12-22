@@ -18,32 +18,7 @@ created: 2024-12-21
 
 ### Shell con evil-winrm
 
-	evil-winrm.rb -u Administrator -p 123456789 -i x.x.x.x 
+	evil-winrm.rb -u Administrator -p 123456789 -i x.x.x.x
 
 
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

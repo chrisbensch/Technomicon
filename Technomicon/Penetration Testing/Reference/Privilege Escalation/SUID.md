@@ -9,3 +9,6 @@ created: 2024-12-21
 # find all files with SUID bit set
 find / -type f -perm -04000 -ls 2>/dev/null
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

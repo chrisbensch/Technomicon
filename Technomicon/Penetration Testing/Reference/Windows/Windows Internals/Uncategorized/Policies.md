@@ -9,4 +9,7 @@ created: 2024-12-21
 - Can be disabled using [reg](reg.md#add):
 ```powershell
 reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /t REG_DWORD /v LocalAccountTokenFilterPolicy /d 1
-``` 
+```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

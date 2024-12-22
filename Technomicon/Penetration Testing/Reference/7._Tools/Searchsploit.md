@@ -8,3 +8,6 @@ created: 2024-12-21
 ```bash - kali
 searchsploit ""Privilege Escalation"" | uniq | grep -v metasploit | grep -i ""windows ""
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

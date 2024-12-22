@@ -13,3 +13,6 @@ created: 2024-12-21
 
 - Windows kernel is `monolithic` in nature like most UNIX kernels.
 - Which means that, OS, kernel code and the device drives, all share the same `kernel-mode protected memory space`.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

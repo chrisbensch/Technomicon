@@ -20,3 +20,6 @@ enum4linux -U <ip-address>
 
 
 #enumeration #smb #port445 #samba
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

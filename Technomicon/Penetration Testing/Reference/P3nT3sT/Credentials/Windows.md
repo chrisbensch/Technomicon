@@ -106,3 +106,6 @@ secretsdump.py <domain>/<username>@<IP-ADDRESS>
 secretsdump.py <domain>/<username>@<IP-ADDRESS> -just-dc-user
 Administrator
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

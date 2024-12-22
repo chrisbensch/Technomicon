@@ -40,3 +40,6 @@ python3 psexec.py $USER:$PASSWORD@$TARGET
 ```bash - kali
 impacket-Get-GPPPassword $DOMAIN/$USER:$PASSWORD@$TARGET
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

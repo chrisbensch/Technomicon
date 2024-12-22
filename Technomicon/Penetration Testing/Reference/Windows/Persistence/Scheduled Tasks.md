@@ -19,3 +19,6 @@ schtasks /query /tn backdoor
 - SD is an ACL that defines which users have access to the tasks.
 - SD of tasks are stored at `HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\backdoor` under a key named `SD`.
 - Changing the value is only allowed by SYSTEM.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

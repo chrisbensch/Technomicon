@@ -9,3 +9,6 @@ created: 2024-12-21
 - Phonebook.cz: [https://phonebook.cz/](https://phonebook.cz/)
 - Clearbit Connect: [Chrome Extension](https://chrome.google.com/webstore/detail/clearbit-connect-free-ver/pmnhcgfcafcnkbengdcanjablaabjplo)
 -
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

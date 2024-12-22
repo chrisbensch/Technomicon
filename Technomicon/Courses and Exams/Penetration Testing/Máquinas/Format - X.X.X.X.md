@@ -32,5 +32,7 @@ $apr1$1ONU/S2$58eeNVirnRDB5zAIbIxTY0
 2023/06/23 04:57:01 CMD: UID=???   PID=12940  | ???
 2023/06/23 04:57:01 CMD: UID=0     PID=12946  | gnuplot /opt/gnuplot/networkplot.plt 
 2023/06/23 04:57:29 CMD: UID=0     PID=12949  | /lib/systemd/systemd-udevd 
-2023/06/23 04:57:29 CMD: UID=0     PID=12948  | /lib/systemd/systemd-udevd 
+2023/06/23 04:57:29 CMD: UID=0     PID=12948  | /lib/systemd/systemd-udevd
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

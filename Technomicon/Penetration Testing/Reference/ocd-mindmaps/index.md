@@ -25,3 +25,5 @@ created: 2024-12-21
 - **@vikingfr**
 - **@Sant0rryu**
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

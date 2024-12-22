@@ -120,3 +120,6 @@ select * from users
 ```bash - kali
 UPDATE 'users' SET 'pass'=MD5('password') WHERE 'user_login' = 'admin';
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

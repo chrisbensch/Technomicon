@@ -14,3 +14,6 @@ created: 2024-12-21
 	- `C:\Users\drdragon\AppData\Local\VirtualStore`
 - For legacy application, virtualization is enabled by default. for newer application, it needs to be enabled. For system processes, applications can never be virtualized.
 - The virtualization is also a part of [Access Token](Access%20Token.md).
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

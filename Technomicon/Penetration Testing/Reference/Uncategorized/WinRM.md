@@ -31,3 +31,6 @@ evil-winrm.eb -u <username> -p <password> -i <IP>
 ```bash
 exploit/windows/winrm/winrm_script_exec
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

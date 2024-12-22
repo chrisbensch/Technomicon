@@ -47,3 +47,6 @@ You should able to reach before executing next command
 ```
 
 Credits:  [Nicolas Chatelain](https://github.com/nicocha30)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

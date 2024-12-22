@@ -60,3 +60,6 @@ PsExec64.exe -i -s regedit
 ```
 - Effective RID is located at `0x30` location in little endian format
 - After changing the effective RID to 500 (0x01F4), the next time users logs in, it will get Administrators privileges.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

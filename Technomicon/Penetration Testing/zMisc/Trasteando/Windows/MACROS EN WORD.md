@@ -31,8 +31,4 @@ End Sub
 ![[Pasted image 20240204183538.png|800]]
 
 
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

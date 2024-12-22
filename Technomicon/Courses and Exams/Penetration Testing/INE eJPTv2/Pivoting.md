@@ -23,20 +23,4 @@ created: 2024-12-21
 > -r IP del equipo final al que estamos intentado llegar
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

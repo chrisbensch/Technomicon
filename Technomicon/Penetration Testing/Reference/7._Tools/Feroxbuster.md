@@ -28,3 +28,6 @@ add headers:
 ```bash - kali
 -H Accept:application/json "Authorization: Bearer {token}"
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

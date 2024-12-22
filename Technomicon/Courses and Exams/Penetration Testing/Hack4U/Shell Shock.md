@@ -10,3 +10,6 @@ created: 2024-12-21
 > .cgi, .sh, .pl...
 
 Para más información, ver [este recurso](https://blog.cloudflare.com/inside-shellshock/)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

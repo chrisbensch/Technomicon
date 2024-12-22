@@ -23,3 +23,6 @@ curl -s -X GET http://X.X:X.X | grep "plugins"
 
 ### xmlrpc.php
 Si existe el archivo http://x.x.x.x/xmlrpc.php podemos realizar un ataque de fuerza bruta de usuarios y contraseñas, especialmente si ya conocemos el usuario
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

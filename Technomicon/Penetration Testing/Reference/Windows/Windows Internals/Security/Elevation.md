@@ -42,3 +42,6 @@ created: 2024-12-21
 	```
 	.\sigcheck.exe -m C:\Windows\System32\msconfig.exe
 	```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

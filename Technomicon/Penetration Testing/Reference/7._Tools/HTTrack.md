@@ -18,3 +18,6 @@ Example of cookies.txt file:
 ![[Pasted image 20220308185142.png]]
 
 ![[Pasted image 20220308185043.png|695]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

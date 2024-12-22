@@ -16,3 +16,6 @@ created: 2024-12-21
 - 3389 - Windows [[RDP]]
 - 5985 - Windows [[TechLexicon/Penetration Testing/Reference/Uncategorized/WinRM]]
 - 5986 - Windows [[TechLexicon/Penetration Testing/Reference/Uncategorized/WinRM]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

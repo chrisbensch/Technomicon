@@ -30,3 +30,6 @@ created: 2024-12-21
 	- *S-1-5-32-544*: Administrators - Administrators group
 - `KKEY_Users` contains the list of SIDS that logged into the the machine.
 - `HKEY_Current_Users` is just a symbolic link to the current user SID in `HKEY\Users`
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

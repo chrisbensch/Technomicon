@@ -42,7 +42,4 @@ Procedimiento:
 7. Esperamos (puede hacer falta esperar un rato hasta que nos convirtamos en el usuario admin)
 
 
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

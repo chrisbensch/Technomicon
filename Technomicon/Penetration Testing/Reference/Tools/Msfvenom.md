@@ -24,3 +24,6 @@ msfvenon -p [payload] LHOST=<ip> LPORT=<port> [options]
 ### Options
 - `-f [format]` : specifiy the format of the payload. Can be listed with `msfvenom -l format`
 - `-o [filename]` : specify the output filename
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

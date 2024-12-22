@@ -58,7 +58,4 @@ cp /var/lib/veil/output/source/reverseveil.bat .
 Transfer to target, get it ran, catch shell.
 
 
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

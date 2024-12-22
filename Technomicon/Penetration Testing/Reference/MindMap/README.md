@@ -95,4 +95,4 @@ The mindmap is created for Obsidian, se download the file [here](https://raw.git
 ![Mindmap File transfer from victom to attacker](https://github.com/eMVee-NL/MindMap/blob/main/WiFi/WiFi%20Mindmap.png)
 
 
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

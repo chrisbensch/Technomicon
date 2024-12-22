@@ -36,3 +36,6 @@ backdoor -> C:\Windows\reverse_shell.exe
 - Apart from loading the user profile, userinit.exe checks for an environment variable `UserInitMprLogonScript`. This environment variable can be used to run scripts when user logs in.
 - This variable is located at: `HKCU\Environment`
 - `UserInitMprLogonScript` -> `C:\Windows\reverse.exe`
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

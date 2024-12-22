@@ -15,3 +15,6 @@ stty raw -echo; fg
 ```
 
 HIt enter twice
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

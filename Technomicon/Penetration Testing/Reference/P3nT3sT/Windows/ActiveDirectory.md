@@ -40,3 +40,6 @@ impacket-GetUserSPNs <domain>/<username> -dc-ip <DC-IP> -request
 ````bash
 impacket-psexec <domain>/<username>:<password>@<IP-ADDRESS>
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

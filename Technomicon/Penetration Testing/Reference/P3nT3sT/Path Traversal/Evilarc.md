@@ -11,3 +11,6 @@ Create a directory traversal archive
 ````bash
 ./evilarc.py -f mal.tar.gz -d 3 -o unix util.py
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

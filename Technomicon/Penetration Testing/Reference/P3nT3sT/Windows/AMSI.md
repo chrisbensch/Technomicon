@@ -35,3 +35,6 @@ https://github.com/yenchiah/project-website-template
 https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
 https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/
 https://twitter.com/mattifestation/status/735261120487772160
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

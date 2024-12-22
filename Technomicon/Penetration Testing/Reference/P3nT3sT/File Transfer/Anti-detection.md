@@ -85,3 +85,6 @@ Accept: */*
 Accept-Encoding: identity
 User-Agent: Microsoft BITS/7.8
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

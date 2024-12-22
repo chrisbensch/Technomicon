@@ -110,12 +110,4 @@ Ahora nos queda extraer la información, se pueden probar varias cosas:
 97 es 'a' en hexadecimal. El primer usuario es admin y por lo tanto el primer caracter es 'a', por lo que la respuesta será código de estado 200, 1, TRUE...
 
 
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

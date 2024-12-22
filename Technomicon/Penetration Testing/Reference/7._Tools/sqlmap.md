@@ -148,14 +148,4 @@ sqlmap http://$TARGET/zm/index.php --data="view=request&request=log&task=query&l
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

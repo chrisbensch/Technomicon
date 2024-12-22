@@ -220,3 +220,6 @@ chmod +x nmap.sh && sudo ./nmap.sh $TARGET
 ```bash - kali
 sudo nmap -T4 $TARGET -Pn -p- | grep "open" | awk '{print $1}' | column -t | cut -d '/' -f 1 > PortTest && sudo nmap -sVC $TARGET -Pn -p $(tr '\n' , < PortTest) > nmapSVC
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

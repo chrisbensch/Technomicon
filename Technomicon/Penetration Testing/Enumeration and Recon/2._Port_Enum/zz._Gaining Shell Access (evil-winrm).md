@@ -19,3 +19,6 @@ ruby /opt/evil-winrm/evil-winrm.rb -i $TARGET -u $USER -p '$PASSWORD'
 ```bash - kali
 ruby /opt/evil-winrm/evil-winrm.rb -i $TARGET -u $PASSWORD -H '$HASH'
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

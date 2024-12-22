@@ -37,3 +37,6 @@ Requesting a Ticket Granting Service ticket, which is can be cracked offline bec
 ````bash
 impacket-GetUserSPNs <domain>/<username> -dc-ip <DC-IP> -request
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

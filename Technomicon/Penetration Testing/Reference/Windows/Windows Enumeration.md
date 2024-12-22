@@ -139,3 +139,6 @@ cmd /c mklink /d C:\shadowcopy "$link"
 ### Other
 - Windows-exploit-suggester (local)
 - Exploit Suggester (metasploit)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

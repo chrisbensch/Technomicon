@@ -26,3 +26,6 @@ echo -n 3c08a6bf020500008edc65459227db9e4de83261ee2eafe9429a07eb96d30b745fef6f82
 ```
 
 ![[TechLexicon/Penetration Testing/Reference/7._Tools/Hashcat#IPMI2 RAKP HMAC-SHA1]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

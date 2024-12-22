@@ -8,3 +8,6 @@ created: 2024-12-21
 	```bash
 	wmic product get name,version,vendor
 	```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

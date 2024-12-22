@@ -23,3 +23,6 @@ tially sensitive data across large networks.
 ````bash
 smbmap -R <share-directory> -H <IP of Host> -A <PATTERN>
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -45,4 +45,4 @@ set up your netcat listener
 ![[rlwrap]]
 
 
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

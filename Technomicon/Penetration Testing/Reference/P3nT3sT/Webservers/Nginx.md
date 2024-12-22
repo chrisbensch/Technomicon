@@ -86,3 +86,6 @@ tail -1 /var/www/upload/SecretUploadDirectory/users.txt
 user65:x:1000:1000:,,,:/home/user65:/bin/bash
 ````
 Once we have this working, a good test is to make sure "File Listings" is not available by navigating to "http://localhost/SecretUploadDirectory". By default, with Apache, if we hit a directory without an index file (index.html), it will list all the files. This is bad for our use case of exfilling files because most of the files are sensitive by nature, and we want to do our best to hide them. Thanks to `NGINX being minimal, features like that are not enabled by default.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

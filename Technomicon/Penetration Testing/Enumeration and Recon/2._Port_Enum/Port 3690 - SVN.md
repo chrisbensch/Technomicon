@@ -17,3 +17,4 @@ svn checkout svn://$TARGET
 Look into log files if present!
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

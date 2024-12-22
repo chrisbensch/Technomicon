@@ -47,3 +47,4 @@ Starting arp-scan 1.9.7 with 256 hosts (https://github.com/royhills/arp-scan)
 192.168.100.67  02:06:e0:35:33:32       (Unknown: locally administered)                        solo ssh
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

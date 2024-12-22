@@ -8,3 +8,5 @@ created: 2024-12-21
 
 login: admin   password: 1q2w3e4r5t
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

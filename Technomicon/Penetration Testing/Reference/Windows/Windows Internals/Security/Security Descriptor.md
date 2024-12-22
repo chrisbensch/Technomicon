@@ -17,4 +17,7 @@ created: 2024-12-21
 	- If the object has no DACL entry, then, the entity has full access to the object.
 	- If the entity has take-ownership privilege, then write access is allowed on the object.
 	- If the caller is the owner of the object, read-controll and write DACL access is granted on the object.
-	- Then is ACE list is check from first to last. 
+	- Then is ACE list is check from first to last.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

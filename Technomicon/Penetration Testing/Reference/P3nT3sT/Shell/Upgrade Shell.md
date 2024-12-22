@@ -66,3 +66,6 @@ wget -q https://github.com/andrew-d/static-binaries/raw/master/binaries/linux/x8
 ```
 
 On Kali, you’ll catch a fully interactive TTY session. It supports tab-completion, SIGINT/SIGSTP support, vim, up arrow history, etc. It’s a full terminal. Pretty sweet.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

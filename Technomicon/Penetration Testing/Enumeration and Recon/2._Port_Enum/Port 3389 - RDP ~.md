@@ -95,3 +95,6 @@ rdesktop -g 85% -r disk:share=/home/kali/Desktop/ -u foobar -p Pass123 $TARGET
 
 See also:
 [[Crowbar]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

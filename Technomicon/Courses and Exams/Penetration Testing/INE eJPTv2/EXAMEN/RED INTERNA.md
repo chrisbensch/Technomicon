@@ -17,4 +17,4 @@ msf6 post(windows/gather/arp_scanner) > run
 [+]     IP: 192.168.0.255 MAC 02:c2:fb:5f:e6:4a (UNKNOWN)
 
 
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

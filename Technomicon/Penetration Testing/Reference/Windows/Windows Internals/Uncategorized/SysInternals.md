@@ -43,3 +43,5 @@ Tool to check access that a <user,group> has to a <file,directory,regkeys,object
 ```
 - `-k`: registry key is supplied
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -8,3 +8,6 @@ created: 2024-12-21
 ```powershell
 Get-AppLockerPolicy -Effective | select -expandproperty rulecollections
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

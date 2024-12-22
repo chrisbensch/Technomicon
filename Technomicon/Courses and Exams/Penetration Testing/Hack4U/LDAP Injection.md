@@ -18,3 +18,4 @@ created: 2024-12-21
 Si por ejemplo hay un panel de login que autentica a usuarios de una base de datos ldap, podríamos usar inyecciones LDAP para bypassear dicho login
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -78,8 +78,4 @@ export PATH="/usr/lib/gcc/i686-linux-gnu/5/:$PATH"
 ```
 
 
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

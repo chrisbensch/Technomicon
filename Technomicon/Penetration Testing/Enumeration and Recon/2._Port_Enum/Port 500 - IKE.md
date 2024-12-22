@@ -84,3 +84,6 @@ ou could also try to brute force transformations with https://github.com/SpiderL
 ```bash - kali
 ./ikeforce.py $TARGET # No parameters are required for scan -h for additional help
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

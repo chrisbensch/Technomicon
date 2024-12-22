@@ -115,3 +115,6 @@ ssh $TARGET -oHostKeyAlgorithms=+ssh-dss -p 22
 ```bash
 ssh $USER@$TARGET -t "bash --noprofile"
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

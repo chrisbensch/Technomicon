@@ -14,3 +14,6 @@ pip install -r requirements.txt
 droopscan scan drupal --url http://X.X.X.X
 
 (puede no mostrar vulnerabilidades, asi que no tomar como un resultado final y concluyente)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

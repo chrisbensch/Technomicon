@@ -35,3 +35,6 @@ Read this post: Hash mode 22000 explained ([https://hashcat.net/forum/thread-102
 Read this wiki: [https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2](https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2)
 
 Unsupported: Windows OS, macOS, Android, emulators or wrappers and NETLINK!
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

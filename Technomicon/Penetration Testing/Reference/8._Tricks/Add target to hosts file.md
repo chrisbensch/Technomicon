@@ -15,3 +15,6 @@ echo '$TARGET friendzone.red administrator1.friendzone.red hr.friendzone.red upl
 ```bash - kali
 sudo -- sh -c "echo '$TARGET example.domain' >> /etc/hosts"
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

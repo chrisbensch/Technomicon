@@ -48,5 +48,4 @@ sudo mousepad /etc/proxychains4.conf
 socks5 127.0.0.1 1080
 
 
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -59,3 +59,6 @@ What's important now:
 > Regular maintenance and review keep your vault useful and organized. Schedule weekly reviews to process notes and maintain connections.
 
 Last updated: 2024-12-21
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

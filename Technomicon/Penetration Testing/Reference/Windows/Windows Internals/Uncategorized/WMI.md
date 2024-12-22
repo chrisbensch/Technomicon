@@ -403,3 +403,6 @@ Invoke-WmiMethod -Namespace root\default -Class StdRegProv -Name GetStringValue 
 ```powershell
 Invoke-WmiMethod -Namespace root\default -Class StdRegProv -Name SetStringValue -ArgumentList @(2147483649,"Software\Microsoft\Internet Explorer\TypedUrls","ValueName","KeyName")
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

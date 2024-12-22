@@ -10,3 +10,6 @@ created: 2024-12-21
 - **Gobuster** (Herramienta activa): [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
 - **Wfuzz** (Herramienta activa): [https://github.com/xmendez/wfuzz](https://github.com/xmendez/wfuzz)
 - **Sublist3r** (Herramienta pasiva): [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

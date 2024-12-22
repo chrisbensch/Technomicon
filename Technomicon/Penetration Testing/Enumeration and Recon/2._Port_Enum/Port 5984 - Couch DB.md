@@ -32,3 +32,6 @@ curl http://$TARGET:5984/passwords/_all_docs?include_docs=true -u hacker:-Xpassw
 ```bash - kali
 curl -X GET http://hacker:passwords@$TARGET:5984/passwords
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

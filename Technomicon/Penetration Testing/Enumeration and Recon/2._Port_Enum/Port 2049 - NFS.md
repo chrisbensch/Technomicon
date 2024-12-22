@@ -65,3 +65,6 @@ mount -t nfs $TARGET:/Mount/ /MyFolder -no lock
 ![[Pasted image 20220112111950.png]]
 
 ![[Pasted image 20220112112052.png]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -19,3 +19,5 @@ tac $1.txt
 rm -rf $1.txt
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

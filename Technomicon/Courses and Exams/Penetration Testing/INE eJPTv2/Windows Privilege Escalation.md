@@ -45,13 +45,4 @@ Teniendo una sesión meterpreter ->
 ![[Pasted image 20230730140203.png]]
 
 
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -8,3 +8,6 @@ created: 2024-12-21
 ```bash
 .\Akagi64.exe <vector number> <program>
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

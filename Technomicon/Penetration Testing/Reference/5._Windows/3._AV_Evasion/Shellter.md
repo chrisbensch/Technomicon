@@ -31,3 +31,6 @@ Select Payload, LHOST, and LPORT
 [[APON/7._Tools/Metasploit#Non-Meterpreter Listener 1 Liner]]
 
 Transfer to target, get it ran, catch shell.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

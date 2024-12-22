@@ -64,3 +64,5 @@ While we could login one-by-one with our newly controlled credentials, we might 
 
 ![[Port 110 - POP3#POP3 sh]]
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -56,5 +56,4 @@ sendemail -f 'jonas@localhost' \
 ```
 
 
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

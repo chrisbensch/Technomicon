@@ -21,3 +21,6 @@ chmod +x werkzeug.py
 ```bash - kali
 python2 werkzeug.py $TARGET whoami
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

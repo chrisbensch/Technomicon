@@ -92,3 +92,6 @@ Note that -a or --auto is required when you do not specify any input names.
 	First.Last          	Anna.Key
 	Last                	Key
 	FML                 	ABK
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -28,3 +28,6 @@ created: 2024-12-21
 # Hash can be cracked with
 hashcat -m 13100 hash.txt pass.txt
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

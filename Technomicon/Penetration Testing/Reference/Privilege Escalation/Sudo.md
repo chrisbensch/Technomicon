@@ -9,3 +9,6 @@ created: 2024-12-21
 sudo -l
 sudo -ll #verbose
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

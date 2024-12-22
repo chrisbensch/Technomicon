@@ -12,3 +12,6 @@ created: 2024-12-21
 	- Taking ownership of an object
 - Privileges can be edited with Local Security Policy Editor
 - Privileges cannot be added to the active security tokens. Users need to logon again to get the new privileges.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

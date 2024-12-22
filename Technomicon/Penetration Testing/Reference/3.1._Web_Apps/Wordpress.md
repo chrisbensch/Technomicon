@@ -115,3 +115,6 @@ hydra -l webdeveloper -P /usr/share/seclists/Passwords/Common-Credentials/10k-mo
 ![[Port 3306 - MySQL ~#MySQL to Wordpress password]]
 
 [[3._LFI RFI#Wordpress config php]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

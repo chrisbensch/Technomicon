@@ -94,3 +94,6 @@ $FOLDER
 ```
 
 `@RSYNCD: AUTHREQD 7H6CqsHCPG06kRiFkKwD8g`    <--- This means you need the password
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -62,3 +62,6 @@ sqlmap -u http://$TARGET/sqli/Less-1/?id=1 --dbs --proxy http://$TARGET:3128
 ```bash - kali
 wpscan -e ap,at,tt,cb,dbe,u,m --detection-mode aggressive --plugins-detection aggressive -t 30 --url http://$TARGET --proxy http://$TARGET
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

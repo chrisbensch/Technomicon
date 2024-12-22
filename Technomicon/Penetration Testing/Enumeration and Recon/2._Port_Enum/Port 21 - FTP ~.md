@@ -144,3 +144,6 @@ To crack passwords, try:
 
 #### vsftpd
 Config file is most likely located at `/etc/vsftpd.conf`. If you can read this file, look for `anon_root=/srv` entry to find root directory of FTP.  `/srv` in this example.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

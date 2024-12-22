@@ -237,3 +237,6 @@ PS /home/htb-student/htb> ls
 
 Invoke-AESEncryption.ps1     scan-results.txt.aes     scan-results.txt
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -22,4 +22,4 @@ Project options > Socks Proxy:
 Foxy Proxy > Burp
 
 
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

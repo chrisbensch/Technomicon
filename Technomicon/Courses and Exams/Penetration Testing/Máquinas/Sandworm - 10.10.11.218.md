@@ -111,3 +111,6 @@ pub fn log(user: &str, query: &str, justification: &str) {
         println!("Error writing to log file: {}", e);
     }
 }
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

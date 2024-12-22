@@ -23,3 +23,6 @@ wfuzz -c -w /usr/share/wordlists/SecLists/Discovery/DNS/bitquark-subdomains-top1
 ### GIT FILES
 
 git-dumper http://pilgrimage.htb/.git/ git
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

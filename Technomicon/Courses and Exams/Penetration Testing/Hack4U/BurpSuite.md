@@ -26,7 +26,7 @@ created: 2024-12-21
 ## BApp Store
 - Te permite añadir extensiones a BurpSuite. 
 - 
-- Copy As Python-Requests permite copiar las solicitudes adaptadas a Python  
+- Copy As Python-Requests permite copiar las solicitudes adaptadas a Python
 
 
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -99,3 +99,6 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Config\web.config
 ```powershell
 reg query HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ /f "Proxy" /s
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -30,6 +30,4 @@ DB_USERNAME=homestead
 DB_PASSWORD=secret
 
 
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

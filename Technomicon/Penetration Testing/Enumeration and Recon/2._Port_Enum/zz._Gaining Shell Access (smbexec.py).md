@@ -23,3 +23,6 @@ smbexec.py $DOMAIN/$USER:$PASSWORD@$TARGET
 ```python - kali
 smbexec.py $DOMAIN/$USER@$TARGET -hashes aad3b435b51404eeaad3b435b51404ee:$HASH
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

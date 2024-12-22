@@ -74,3 +74,4 @@ Enter a wildcard `*` in the search bar and hit search.
 ![[Pasted image 20220320171419.png | 600]]
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -301,3 +301,5 @@ Add-Type -Path /home/kali/Desktop/$TARGET/Powershell-PostExploitation/Invoke-MDF
 Get-MDFHashes -mdf /home/kali/Desktop/$TARGET/master.mdf
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

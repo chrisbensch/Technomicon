@@ -13,3 +13,5 @@ nmap -p 443 --script ssl-heartbleed $TARGET
 curl https://$TARGET:443/ -k
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

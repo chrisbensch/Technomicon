@@ -22,3 +22,5 @@ reverse hta file:
 URL: http://$KALI/reverse.hta
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

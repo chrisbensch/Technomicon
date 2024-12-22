@@ -77,3 +77,6 @@ from ""
 sort file.ctime desc
 limit 5
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

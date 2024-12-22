@@ -13,3 +13,6 @@ nmap -p 23 --script=telnet-ntlm-info.nse $TARGET
 ```
 
 ![[TechLexicon/Penetration Testing/Reference/7._Tools/Hydra#Hydra against telnet]]
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

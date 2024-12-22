@@ -15,3 +15,4 @@ sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get install
 ```
 
 
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

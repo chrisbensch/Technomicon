@@ -67,15 +67,4 @@ jar -cvf yaml-payload.jar -C src/ .
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

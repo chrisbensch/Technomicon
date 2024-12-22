@@ -74,3 +74,5 @@ for ip in $(seq 1 254); do echo xxx.xxx.xxx.$ip; done > ips
 onesixtyone -c community -i ips
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

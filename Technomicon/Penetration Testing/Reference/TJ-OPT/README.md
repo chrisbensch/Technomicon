@@ -72,3 +72,6 @@ Just like my Joplin Template, this template contains a variety of tools, command
 # Feedback, Suggestions and Contributions
 
 This template is just the beginning; there's always room to add new tips, resources, or guides for others to benefit from. If you have any suggestions or ideas you'd like to see included, please feel free to submit an issue in the repository.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -37,3 +37,6 @@ We can use [AMSITrigger](https://github.com/RythmStick/AMSITrigger) and [Defende
 ## AMSI Bypass - Ofuscator
 #### Invoke-Obfuscation
 - [Github](https://github.com/danielbohannon/Invoke-Obfuscation)
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

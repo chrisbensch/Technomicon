@@ -39,3 +39,5 @@ if __name__=="__main__":
         crawl(url)
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

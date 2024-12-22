@@ -54,3 +54,6 @@ To query group membership, use the -m option with either the DN or CN of the gro
 ````bash
 GetADUsers.py <domain-name>/ -dc-ip <IP-ADDRESS-DC> -debug
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -246,3 +246,6 @@ sudo nmap --script=smb-enum* --script-args=unsafe=1 $TARGET
 
 #### Responder - File upload attack
 https://pentestlab.blog/2017/12/13/smb-share-scf-file-attacks/
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -212,4 +212,7 @@ created: 2024-12-21
 |:-|:-|
 |GOAD |[Link](https://github.com/Orange-Cyberdefense/GOAD/tree/main) | 
 |VulnAD |[Link](https://github.com/tjnull/OSCP-Stuff/tree/master/Active-Directory) | 
-|Ludus |[Link](https://gitlab.com/badsectorlabs/ludus) | 
+|Ludus |[Link](https://gitlab.com/badsectorlabs/ludus) |
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

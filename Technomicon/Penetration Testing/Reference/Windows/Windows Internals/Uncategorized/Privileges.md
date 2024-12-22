@@ -13,3 +13,6 @@ created: 2024-12-21
 ### SeTakeOwnership
 - This privilege can be use to take ownership of any object(files, registry keys) in the system.
 - Can take ownership of an executables that runs with SYSTEM privs and get a system shell.
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

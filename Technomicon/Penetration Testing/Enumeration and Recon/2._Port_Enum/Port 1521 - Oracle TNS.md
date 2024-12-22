@@ -75,3 +75,5 @@ firefox http://$TARGET/cmdasp.aspx
 
 [[1._Reverse Shells (WIN)#Stageless Payloads]]
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

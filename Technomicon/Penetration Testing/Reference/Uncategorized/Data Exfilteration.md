@@ -91,3 +91,6 @@ dig aioh3ioh53oi5ho3i2.drdragon.com +short
 ```bash
 sudo tcpdump -i eth0 udp port 53 -v
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

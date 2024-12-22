@@ -24,3 +24,5 @@ Set up python server:
 
 ![[Pasted image 20220705124109.png]]
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

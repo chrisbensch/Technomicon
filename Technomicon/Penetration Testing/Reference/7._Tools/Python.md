@@ -349,3 +349,6 @@ git clone https://github.com/jtpereyda/regpol
 ```python - kali
 python3 regpol.py ../../Registry.pol
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

@@ -20,3 +20,6 @@ sudo apt install gpp-decrypt
 ````bash
 gpp-decrypt <encrypted_password>
 ````
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

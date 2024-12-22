@@ -80,3 +80,6 @@ go install -v github.com/tomnomnom/anew@latest
 ```bash - kali
 cat cewl2.txt | anew cewl.txt & rm cewl2.txt**
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

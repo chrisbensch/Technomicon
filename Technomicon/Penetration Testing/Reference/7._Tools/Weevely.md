@@ -62,3 +62,5 @@ weevely http://dvwa.local/hackable/uploads/shelly.php mypassword
  :system_procs                 List running processes.
 ```
 
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`

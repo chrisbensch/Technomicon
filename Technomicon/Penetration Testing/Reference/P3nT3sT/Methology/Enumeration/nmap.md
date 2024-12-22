@@ -14,3 +14,6 @@ ports=$(nmap -p- --min-rate=1000 -T4 <IP> | grep '^[0-9]' | cut -d '/' -f 1 | tr
 ```bash
 nmap -p$ports -sC -sV <IP>
 ```
+
+
+Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`
