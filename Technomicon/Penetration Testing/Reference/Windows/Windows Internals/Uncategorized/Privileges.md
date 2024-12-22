@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 [Microsoft's Documentation](https://learn.microsoft.com/en-us/windows/win32/secauthz/privilege-constants)
 

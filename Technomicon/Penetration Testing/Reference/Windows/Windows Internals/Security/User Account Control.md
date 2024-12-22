@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - *UAC* - User Account Control
 - Was introduced in windows Vista.

@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 ### Buscar por subdirectorios/ficheros
 wfuzz -c --hc=404 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -t 20 -u \<url\>/FUZZ
 **Se puede usar la opción -L para seguir redirecciones**

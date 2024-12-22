@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 Found a file named: `backup.tar.gz.enc`. Use netpgp to decrypt it.
 
 ```bash - target

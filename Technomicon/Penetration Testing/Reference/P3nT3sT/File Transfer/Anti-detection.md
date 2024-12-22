@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 # Detection
 Command-line detection based on blacklisting is straightforward to bypass, even using simple case obfuscation. However, although the process of whitelisting all command-lines in a particular environment is initially time-consuming, it is very robust and allows for quick detection and alerting of any unusual command-lines.

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 #### Drupal 7
 https://github.com/pimps/CVE-2018-7600

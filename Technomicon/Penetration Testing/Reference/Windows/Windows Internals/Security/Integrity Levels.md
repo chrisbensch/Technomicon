@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Integrity levels were introduced, to differentiate between a process running under the same user but one with elevated privilege and one with standard privilege.
 - Integrity levels:

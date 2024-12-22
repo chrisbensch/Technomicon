@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
 tags: []
----
+created: 2024-12-21
 
+---
 # 🏠 Welcome to My Obsidian Vault
 
 ## 📂 Categories Overview

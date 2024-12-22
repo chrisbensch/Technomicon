@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
 tags: []
+created: 2024-12-21
+
 ---
 ### Instalación de droopscan
 git clone https://github.com/droope/droopescan.git

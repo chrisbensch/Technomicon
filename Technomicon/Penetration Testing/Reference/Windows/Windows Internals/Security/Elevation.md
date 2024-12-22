@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - When a user is authenticated, who is also an administrator, two tokens are created:
 	- *Elevated Token*: Token with all the administrative privileges

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Windows Management Instrumentation
 - Microsoft's Implimentation of:

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 winexe uses the admin$ and rpc (`net service start`) to install and start a remote service (winexesvc). This service initialize a _Named Pipe_ that is used to transport commands from the client to the server and the output in the reverse way. When finish, the _named pipe_ is closes and the winexesvc waits or more connections or is uninstalls (depending of the options given)
 

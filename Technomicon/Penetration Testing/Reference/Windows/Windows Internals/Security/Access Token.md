@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Access token is a kernel object that identifies the security context of a process or a thread.
 - A token attached to a *Process* is called a *Primary Token*.

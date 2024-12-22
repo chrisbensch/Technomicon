@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ```bash - kali
 wget https://raw.githubusercontent.com/p0dalirius/RemoteMouse-3.008-Exploit/master/RemoteMouse-3.008-Exploit.py

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 #### Online YAML parser
 See https://github.com/artsploit/yaml-payload

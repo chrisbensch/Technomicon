@@ -1,9 +1,11 @@
 ---
 category: Uncategorized
-tags:
   - pentest
   - enumeration
   - ftp
+tags: [pentest]
+created: 2024-12-21
+
 ---
 #### FTP Enumeration
 ==CHECK TO SEE IF YOU CAN UPLOAD FILES!==

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ```bash - kali
 wget https://raw.githubusercontent.com/hakivvi/CVE-2022-29464/main/exploit.py

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - A property of an object that specifies *who* can do *what* with an object.
 - When an entity tries to perform an action on the object, the security reference monitor compares if the entity has proper privileges to perform the action based on the security descriptor of the object.

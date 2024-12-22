@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Windows is a multi-user operating system, where application is separated from the OS.
 - The kernel code runs in the `privileged mode` also known as the kernel mode.

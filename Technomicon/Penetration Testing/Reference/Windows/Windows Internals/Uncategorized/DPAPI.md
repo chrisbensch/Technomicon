@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Data Protection API
 - Provides API to enable symmetric encryption for any kind of data.

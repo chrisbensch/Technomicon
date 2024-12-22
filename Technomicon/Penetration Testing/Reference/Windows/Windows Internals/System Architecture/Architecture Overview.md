@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - User mode process runs in user mode (ring 1)
 - Kernel code runs in kernel mode (ring 0)

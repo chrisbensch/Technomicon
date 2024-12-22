@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 # CVE-2021-1675 / CVE-2021-34527
 
 https://github.com/cube0x0/CVE-2021-1675

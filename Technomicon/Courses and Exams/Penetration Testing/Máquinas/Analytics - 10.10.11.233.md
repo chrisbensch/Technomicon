@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
 tags: []
+created: 2024-12-21
+
 ---
 POST /api/setup/validate HTTP/1.1
 

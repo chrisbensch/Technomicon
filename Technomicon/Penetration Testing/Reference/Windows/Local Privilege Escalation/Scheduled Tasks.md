@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Windows can run tasks at certain time or at certain action.
 - Tasks run with the user privilege of the user who created them.

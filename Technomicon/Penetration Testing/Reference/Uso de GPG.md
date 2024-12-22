@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 ## Crear par de claves con el uid "David" 
 
 gpg --quick-gen-key "David"

@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 ## Attacks
 
 -   **[Denial of service](http://hacking-printers.net/wiki/index.php/Denial_of_service "Denial of service")**:

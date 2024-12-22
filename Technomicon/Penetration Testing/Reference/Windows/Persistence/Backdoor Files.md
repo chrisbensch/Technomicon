@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ### Executable Files
 - Legit binary can be replaced with reverse shell. [Msfvenom](Msfvenom.md) can inject payload into a legit binary.

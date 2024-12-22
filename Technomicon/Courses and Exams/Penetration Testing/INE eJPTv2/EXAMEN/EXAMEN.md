@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
 tags: []
----
+created: 2024-12-21
 
+---
 # Escaneo de la red
 
 root@kali:~/examen# nmap -sn 192.168.100.0/24

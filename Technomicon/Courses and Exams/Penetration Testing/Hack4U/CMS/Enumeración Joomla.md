@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
 tags: []
----
+created: 2024-12-21
 
+---
 ### Instalación joomscan
 ```
 git clone https://github.com/rezasp/joomscan.git

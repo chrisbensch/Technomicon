@@ -1,3 +1,8 @@
+---
+tags: [pentest]
+created: 2024-12-21
+
+---
 ---------
 - tags: #burpsuite #web #lfi #web #system #rce
 ---------

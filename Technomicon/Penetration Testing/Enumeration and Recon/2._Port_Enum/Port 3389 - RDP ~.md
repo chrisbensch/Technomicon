@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 Pay attention to the possibility of adding a user via other vulnerability and accessing by RDP. [[Port 139 445 (Exploits)#MS17-010 method 2 RDP]]
 

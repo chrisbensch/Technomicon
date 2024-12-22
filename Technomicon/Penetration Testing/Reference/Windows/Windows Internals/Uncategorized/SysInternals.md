@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 # accesschk.exe
 Tool to check access that a <user,group> has to a <file,directory,regkeys,objects,service>.

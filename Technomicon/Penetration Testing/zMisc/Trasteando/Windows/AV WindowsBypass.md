@@ -1,3 +1,8 @@
+---
+tags: [pentest]
+created: 2024-12-21
+
+---
 ---------------
 - tags: #Windows #Av #Defender #hoaxshell #RCE #cmd #powershell
 -------------------

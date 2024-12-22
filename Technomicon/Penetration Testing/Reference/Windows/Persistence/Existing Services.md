@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ### Web Shells
 - IIS runs with `iss apppool\defaultapppool`, this is an unprivileged user, but it has `SeImpersonatePrivilege`.

@@ -1,5 +1,7 @@
 ---
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ---
 - tags: #windows #rce #persistencia #nc #netcat #tarea #schtasks

@@ -1,3 +1,8 @@
+---
+tags: [pentest]
+created: 2024-12-21
+
+---
 ----
 - tags: #macros #word #excel #microsoft #office #troyano #windows #powerpoint #rce 
 ---

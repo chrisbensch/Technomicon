@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 Video Walkthrough
 https://www.youtube.com/watch?v=mHsMCfg_KQw
 

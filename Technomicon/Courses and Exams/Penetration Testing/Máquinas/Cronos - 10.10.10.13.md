@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
 tags: []
----
+created: 2024-12-21
 
+---
 ### session.php
 define('DB_SERVER', 'localhost');  
 define('DB_USERNAME', 'admin');  

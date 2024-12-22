@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
 tags: []
----
+created: 2024-12-21
 
+---
 root:x:0:0:root:/root:/bin/bash
 emily:x:1000:1000:emily,,,:/home/emily:/bin/bash
 

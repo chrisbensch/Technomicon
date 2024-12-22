@@ -1,3 +1,7 @@
+---
+created: 2024-12-21
+
+---
 -------------
 - tags: #ssti #web #python #flask #rce
 ---------

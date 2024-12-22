@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 ![[Pasted image 20221108114319.png]]
 
 With this query you will find the name of all the types being used:

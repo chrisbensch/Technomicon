@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 Did you know that c:\program files can also be abbreviated c:\progra~1? DOS accepts either.  
   

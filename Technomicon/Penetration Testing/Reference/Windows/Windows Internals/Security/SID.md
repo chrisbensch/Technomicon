@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - *S*ecurity *Id*entifier
 - Identifier for identities executing actions (Officially called *Principal*), can be:

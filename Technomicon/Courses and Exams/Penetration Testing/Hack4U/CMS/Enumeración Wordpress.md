@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
 tags: []
+created: 2024-12-21
+
 ---
 ### Enumeración básica
 wpscan --url http://X.X:X.X

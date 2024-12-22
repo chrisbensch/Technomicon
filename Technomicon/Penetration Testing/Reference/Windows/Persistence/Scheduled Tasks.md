@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ### Scheduling tasks
 - Create a task that runs every minutes and runs a reverse shell

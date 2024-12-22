@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ```python - kali
 python3 /usr/share/doc/python3-impacket/examples/psexec.py --help

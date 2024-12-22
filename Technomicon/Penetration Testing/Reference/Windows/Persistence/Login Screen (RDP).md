@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ### Sticky Keys
 - When we press shift 5 times, the program located at `C:\Windows\System32\sethc.exe` is executed.

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Every window process is represented by the process executive structure called `EPROCESS`.
 - `EPROCESS` contains reference to one more internal structures such as `ETHREAD` which represents the threads inside the process.

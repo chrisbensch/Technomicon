@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 # Group Policy Preferences
 Group Policy Preferences (GPP) was introduced in Windows Server 2008, and among many other

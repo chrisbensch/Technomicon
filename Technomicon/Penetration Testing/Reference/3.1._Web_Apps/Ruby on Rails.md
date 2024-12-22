@@ -1,8 +1,9 @@
 ---
 category: Uncategorized
-tags: []
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 Using Wappalyzer, we see Rub on Rails in Web frameworks.
 
 ![[Pasted image 20221108121650.png]]

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 ### Startup Folder
 - User Startup Folder - Runs all programs in the directory of the `<username>` logs in

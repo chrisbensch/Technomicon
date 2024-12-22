@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
 tags: []
+created: 2024-12-21
+
 ---
 dev_admin es propietario de /app/venv/bin/activate, el cual es ejecutado por root
 Tengo que convertirme en dev_admin

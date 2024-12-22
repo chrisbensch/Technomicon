@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 https://blog.zabbix.com/zabbix-remote-commands/7500/
 

@@ -1,7 +1,9 @@
 ---
-- tags: #windows #uac #uacbypass #uacme #rce #privilegeescalation #administator  
----
+- tags: #windows #uac #uacbypass #uacme #rce #privilegeescalation #administator
+tags: [pentest]
+created: 2024-12-21
 
+---
 ---
 - tags: #windows #uac #uacbypass #uacme #rce #privilegeescalation #administator  
 ---

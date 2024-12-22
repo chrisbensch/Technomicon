@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 https://www.hacknos.com/rbash-escape-rbash-restricted-shell-escape/
 

@@ -1,3 +1,7 @@
+---
+created: 2024-12-21
+
+---
 ----------------
 - tags: #windows #rdp #rce #bluekeep #metasploit 
 ------------

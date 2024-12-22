@@ -1,7 +1,9 @@
 ---
 description: This is my playground for SQL injection and XSS
----
+tags: [pentest]
+created: 2024-12-21
 
+---
 # SQL Injection & XSS Playground
 
 ## Classic SQL Injection

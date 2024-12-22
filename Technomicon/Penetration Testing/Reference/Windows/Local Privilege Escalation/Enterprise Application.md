@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - In-house developed tools that are running in enterprise network can be abused as they are not made with security in mind.
 - Eg: CI tools such as jenkins

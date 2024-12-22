@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 Alternate Data Stream is an NTFS file attribute and was designed to provide compatibility with MacOS's Hierarchical file system.
 - Any file created on the NTFS will have two data streams:

@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 - Older version of windows could run some GUI apps with administrative privs.
 - These GUI apps can spawn shells.

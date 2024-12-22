@@ -1,6 +1,8 @@
 ---
 category: Uncategorized
-tags: []
+tags: [pentest]
+created: 2024-12-21
+
 ---
 # PowerUp
 https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
