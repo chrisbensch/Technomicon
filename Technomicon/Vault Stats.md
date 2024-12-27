@@ -41,7 +41,7 @@ TABLE WITHOUT ID
 FROM "/"
 FLATTEN file.tags as tag
 GROUP BY tag
-SORT count DESC
+SORT length(rows) DESC
 LIMIT 10
 ```
 
@@ -56,7 +56,7 @@ SORT date desc
 LIMIT 6
 ```
 
-Last updated: `= date(today)`
+
 
 
 Last updated: `$= dv.current().file.mtime.toFormat("MMMM dd, yyyy 'at' HH:mm")`
