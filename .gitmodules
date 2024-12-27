@@ -1,0 +1,3 @@
+[submodule "Technomicon/Courses, Exams, CTFs/Linux/RHCSA/Exam Questions/RHCSA"]
+	path = Technomicon/Courses, Exams, CTFs/Linux/RHCSA/Exam Questions/RHCSA
+	url = https://github.com/ive663/RHCSA.git
