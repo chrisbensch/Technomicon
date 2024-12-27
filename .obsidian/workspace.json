@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from VSCode Pentest Setup"
             }
           },
           {
@@ -137,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of VSCode Pentest Setup"
             }
           },
           {
@@ -152,7 +155,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "748dee2d255a34fb",
+  "active": "5ae3b027a31100e4",
   "lastOpenFiles": [
     "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md",
     "Untitled 1.md",
