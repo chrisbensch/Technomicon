@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Technomicon/Penetration Testing/Reference/4._Linux/1._Reverse Shells (LIN).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,6 +179,8 @@
   },
   "active": "748dee2d255a34fb",
   "lastOpenFiles": [
+    "Technomicon/Penetration Testing/Reference/4._Linux/1._Reverse Shells (LIN).md",
+    "Technomicon/Web Clips",
     "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md",
     "Untitled 1.md",
     "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md",
