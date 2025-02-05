@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md",
-                "mode": "preview",
+                "file": "Technomicon/Penetration Testing/Reference/4._Linux/1._Reverse Shells (LIN).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VSCode Pentest Setup"
+              "title": "1._Reverse Shells (LIN)"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,7 +177,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ae3b027a31100e4",
+  "active": "748dee2d255a34fb",
   "lastOpenFiles": [
     "Technomicon/Penetration Testing/zMisc/VSCode Pentest Setup.md",
     "Untitled 1.md",
