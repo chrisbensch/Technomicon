@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5c890fa4a9ffba",
+        "id": "6a539f812f628c53",
         "type": "tabs",
         "children": [
           {
-            "id": "cdba88d8f1cdf00b",
+            "id": "582d3c77e28ad992",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -175,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdba88d8f1cdf00b",
+  "active": "582d3c77e28ad992",
   "lastOpenFiles": [
     "Technomicon/Penetration Testing/Reference/4._Linux/1._Reverse Shells (LIN).md",
     "Technomicon/Web Clips/OffSec’s Exploit Database Archive.md",
