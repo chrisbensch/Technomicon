@@ -1,5 +1,3 @@
-# AZ-900 Microsoft Azure Fundamentals
-
 ## Course Overview
 - **Course Title:** Microsoft Azure Fundamentals (AZ-900)
 - **Date Started:** 
