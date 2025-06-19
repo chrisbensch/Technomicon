@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "97cc9a67cf269fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e5568a748c11025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5beb2f63b389626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Azure Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Azure Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06ca85908aa949e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a30f282ad09945e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371071699ed0b530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78dcc5ae8285348f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bec70959ec20038",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff77021c0419f5b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa2e55cac7503b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e0a3c323a821e73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Azure Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Azure Basics"
+            }
+          },
+          {
+            "id": "d425060d1da5552b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Azure Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Azure Basics"
+            }
+          },
+          {
+            "id": "1e19ec0a1e301d66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "141295943f8d5396",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Azure Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Azure Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5beb2f63b389626",
+  "lastOpenFiles": [
+    "1.5. Scaling.md",
+    "1. Cloud Basics.md",
+    "3.1. Compute.md",
+    "2.1. Purchasing & Licensing Options.md",
+    "1.4. Cloud Compliance.md",
+    "1.3.1. Compute & Serverless & Storage.md",
+    "1.2. Cloud Deployment Models (Public vs Private vs Hybrid Cloud).md",
+    "1.1. Benefits of Cloud Computing.md"
+  ]
+}
